@@ -68,8 +68,12 @@
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for communication
-    in class (in-person and online), lab and practical sessions, and during team meetings
+    * Leave messages unanswered for unacceptable lengths of time, thus disrupting
+    effective collaboration and productivity. This extends to Email, Slack, Github,
+    and any other mediums of communication.
+    * Disrespect the work and opinions of others or otherwise provide deconstructive
+    criticism. Github threads, Slack channels, and any other platforms for discussing
+    opinions and development are limited to professional discourse.
 
 ## Team Work
 
