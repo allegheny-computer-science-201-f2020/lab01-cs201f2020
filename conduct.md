@@ -100,7 +100,6 @@ truly be all there.
     * Ensure that they are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
     * Be understanding and compassionate regarding the various learning/living situations a student may face this semester
 
-
 * Unacceptable Conduct (U):
   * Members shall not
     * Demonstrate disrespect for team members
