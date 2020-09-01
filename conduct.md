@@ -55,11 +55,13 @@
   * Members shall
     * Turn in work in a timely fashion.
     * Communicate with others when you're done with your part.
+    * Check if your work are free of errors.
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Procrastinate work within group projects and leave your teammates to do your work.
     * Submit assignments past the due date.
+    * Not letting your teammates about your work commits.
 
 ### Communication
 
