@@ -30,6 +30,7 @@
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for the overall conduct
+    // TEST
 
 * Unacceptable Conduct (U):
   * Members shall not
