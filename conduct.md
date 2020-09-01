@@ -53,7 +53,7 @@
 
 * Acceptable Conduct (A):
   * Members shall
-    * Turn in work in a timely manner.
+    * Turn in work in a timely fashion.
 
 * Unacceptable Conduct (U):
   * Members shall not
