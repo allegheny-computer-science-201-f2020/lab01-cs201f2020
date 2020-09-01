@@ -58,7 +58,7 @@
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for deadlines
+    * Procrastinate work within group projects and leave your teammates to do your work.
     * Submit assignments past the due date.
 
 ### Communication
