@@ -49,10 +49,12 @@
 * Acceptable Conduct (A):
   * Members shall
     * Arrive to class on time
+    *
     * :heavy_exclamation_mark: TODO: add items in the A category for attendance
 
 * Unacceptable Conduct (U):
   * Members shall not
+    * Miss 3 consecutive days without excuses 
     * :heavy_exclamation_mark: TODO: add items in the U category for attendance
 
 ### Deadlines
