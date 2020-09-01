@@ -65,6 +65,8 @@
   * Members shall
     * Ask questions if they are unsure of what they need to do or how to do it
     * Listen to and consider ideas presented by others
+    * Give proper notice about any absences to lab meetings or changes they will make
+    to the project itself.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -74,7 +76,9 @@
     * Disrespect the work and opinions of others or otherwise provide deconstructive
     criticism. Github threads, Slack channels, and any other platforms for discussing
     opinions and development are limited to professional discourse.
-
+    * Refuse to complete work on sections of the project that they had said they
+    would work on prior.
+    
 ## Team Work
 
 Some of the class activities and lab projects will require team collaboration.
