@@ -155,23 +155,21 @@ provide great insight in how to improve in future projects.
     while adhering to the communications section of the code of conduct
     * Provide constructive feedback and propose solutions for issues faced
     * Receive feedback and discuss how it could be used to improve future projects and assignments
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the doing postmortems as a team
-    * Bailey Communicate and think practically/realistically on ways to improve the program based on efficiency and the skills we have learned throughout the course and at Allegheny.
+    * Bailey Communicate and think practically/realistically on ways to improve the program based on efficiency and the skills we have learned throughout the course and at Allegheny
     * Kiley Account for situational factors that may come up with remote work when giving feedback and discussing solutions
-    * Jordan All post mortems should be blameless to increase accountability between team members and to prevent anyone being blamed/targeted for mistakes.
-    * Jordan All decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members.
+    * Keep postmortems blameless to increase the accountability in a group and to prevent team members from being blamed
+    * All decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Insult others while presenting criticism
     * Blame other members for any issues with the final product
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the doing postmortems as a team
-    * Mai - Make fun of other people’s solutions
-    * Bailey - Take all credit for all of the team members work that the individual did not do and blame others for everything wrong
-    * Jordan - Specifically target any one team member when discussing the bugs remaining in the project.
-    * Jordan - Make a decision based on the thoughts of less than the majority of a group's members.
-    * Kiley - claim that one subjective way of achieving a solution is the only correct way of working towards it
+    * Make fun of other people’s solutions
+    * Take all credit for all of the team members work that the individual did not do and blame others for everything wrong
+    * Target a specific team member when discussing a post mortem or the remaining bugs in a laboratory or project assignment
+    * Decide what to do after a postmortem that the majority of the project or laboratory group doesn't agree with
+    * Claim that one subjective way of achieving a solution is the only correct way of working towards it
 
 ### Conflicts
 
@@ -188,22 +186,19 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Project managers may reassign different tasks to group members to solve a conflict
     * The course instructor has a final say in how severe conflicts should be resolved
     * Be respectful and open-minded with everybody in the team when encountering a conflict
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for resolving conflicts as a team
-    * (MAI) Conflict involving violence will be reported to the instructors and Dean of students
-    * Mai - Be considerate and listen to everyone in the group carefully before determining a suitable solution for the issue
-    * (Jordan)
-    * (Jordan)
-    * Bailey -do not physically injure others or try or attack members in order to resolve conflicts
+    * Conflict involving violence will be reported to the instructors and Dean of students
+    * Be considerate and listen to everyone in the group carefully before determining a suitable solution for the issue
+    * Politely disagree with other students ideas but not in a way that harms the group or individual students
+    * Not physically injure others or try or attack members in order to resolve conflicts
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Encourage or engage in conflicts that undermine the code of conduct
     * Escalate existing conflicts that jeopardize the group project
-    * Disregard or refuse to resolve an existing conflict
-        that has been brought to their attention
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the resolving conflicts as a team
-    * Mai - Harassing others with discriminatory jokes and languages
-    * Bailey - holding grudges against others for previous conflicts
+    * Disregard or refuse to resolve an existing conflict that has been brought to their attention
+    * Harassing others with discriminatory jokes and languages
+    * Hold grudges against others for previous conflicts
+    * Hide conflicts within a group to prevent interventions to mitigate problems
 
 ## Infractions
 
