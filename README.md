@@ -30,7 +30,8 @@ collaboratively improve and add missing details to the template to develop a
 completed and comprehensive code of conduct. The instructor and students will
 then use this conduct guide to govern all course interactions.
 
-Please watch a video introducing this lab assignment [![Code Of Conduct Assignment Introduction](CodeOfConduct_YouTubeThumbnail.png)](https://www.youtube.com/playlist?list=PLz9YRLfRGO9JpJfVknMPnK_jagA0mgxN0).
+Please watch a video introducing this lab assignment [![Code Of Conduct Assignment Introduction](CodeOfConduct_YouTubeThumbnail.png =50x50)](https://www.youtube.com/playlist?list=PLz9YRLfRGO9JpJfVknMPnK_jagA0mgxN0).
+
 ## Objectives
 
 * To develop a code of conduct governing how all members of Data Abstraction class will interact during class, lab and practical sessions, as well as when working in a team.
