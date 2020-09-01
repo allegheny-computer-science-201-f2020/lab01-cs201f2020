@@ -99,6 +99,7 @@ truly be all there.
     * Raise a disagreeing opinion in a respectful manner
     * Ensure that they are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
     * Be understanding and compassionate regarding the various learning/living situations a student may face this semester
+    * Ask questions when necessary
 
 * Unacceptable Conduct (U):
   * Members shall not
