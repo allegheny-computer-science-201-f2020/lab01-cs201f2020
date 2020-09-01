@@ -1,4 +1,5 @@
 # :crocodile: Developing Code of Conduct for CMPSC 201 Fall 2020: LAB 01 Assignment
+
 ## DUE: September 8th by 4:50pm
 
 [![Actions Status](https://github.com/allegheny-computer-science-201-f2020/lab01-cs201f2020/workflows/linting/badge.svg)](https://github.com/allegheny-computer-science-201-f2020/lab01-cs201f2020/actions)
