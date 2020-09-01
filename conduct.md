@@ -99,7 +99,7 @@ truly be all there.
     * Raise a disagreeing opinion in a respectful manner
     * Ensure that they are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
     * Be understanding and compassionate regarding the various learning/living situations a student may face this semester
-  
+
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -110,7 +110,8 @@ truly be all there.
     collaboration in lab and Slack
     * Disrupt working teams' effectiveness by lack of collaboration
     * Attempt to dominate a lab discussions
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the participation in a team
+    * Avoid contributing to lab discussions
+    * Demonstrate disruptive behavior that inhibits others from participating in discussions
 
 ### Decisions
 
