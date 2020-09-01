@@ -30,7 +30,7 @@ collaboratively improve and add missing details to the template to develop a
 completed and comprehensive code of conduct. The instructor and students will
 then use this conduct guide to govern all course interactions.
 
-Please watch a video introducing this lab assignment [![Code Of Conduct Assignment Introduction](CodeOfConduct_YouTubeThumbnail.png =50x50)](https://www.youtube.com/playlist?list=PLz9YRLfRGO9JpJfVknMPnK_jagA0mgxN0).
+Please watch a video introducing this lab assignment under the course's YouTube playlist [![Code Of Conduct Assignment Introduction](CodeOfConduct_YouTubeThumbnail.png = 100x)](https://www.youtube.com/playlist?list=PLz9YRLfRGO9JpJfVknMPnK_jagA0mgxN0)
 
 ## Objectives
 
