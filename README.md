@@ -1,4 +1,5 @@
 # :crocodile: Developing Code of Conduct for CMPSC 201 Fall 2020: LAB 01 Assignment
+## DUE: September 8th by 4:50pm
 
 [![Actions Status](https://github.com/allegheny-computer-science-201-f2020/lab01-cs201f2020/workflows/linting/badge.svg)](https://github.com/allegheny-computer-science-201-f2020/lab01-cs201f2020/actions)
 
@@ -85,7 +86,7 @@ task associated with completing this project.
 
 ### Team Work
 
-Each member of the class will be randomly assigned to a team at the beginning
+Each member of the class will be assigned to a team at the beginning
 of the lab session. Each team will be assigned one feature/section to start
 with. All teams are expected to make contributions to all sections of the conduct
 guide.
