@@ -48,16 +48,13 @@
   * Members shall
     * Arrive to class in a timely manner
     * Regularly attend class sessions
-    * :heavy_exclamation_mark: TODO: add items in the A category for attendance
+    * Attend outside sessions with group members, if needed, for group projects
 
 * Unacceptable Conduct (U):
   * Members shall not
-<<<<<<< HEAD
-=======
     * Miss three consecutive days without a valid excuse
     * Not arrive to a class more than fifteen minutes without a valid excuse
->>>>>>> a7e843b20ce6608ab63c64e929abfe75361395e6
-    * :heavy_exclamation_mark: TODO: add items in the U category for attendance
+    * Leave class early without an excuse
 
 ### Deadlines
 
