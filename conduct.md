@@ -61,8 +61,6 @@
 
 ### Communication
 
-Wes, Caden, and Chris
-
 * Acceptable Conduct (A):
   * Members shall
     * :heavy_exclamation_mark: TODO: add items in the A category for communication
