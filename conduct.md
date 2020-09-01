@@ -96,7 +96,7 @@ truly be all there.
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the participation in a team
+    * Ensure that they are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
 
 * Unacceptable Conduct (U):
   * Members shall not
