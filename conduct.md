@@ -30,8 +30,11 @@
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for the overall conduct
+<<<<<<< HEAD
     // TEST
     * During class sessions, avoid navigating to other websites or programs not related to class materials.
+=======
+>>>>>>> 28851f6c39e1539ce17e449acbe5dbcba838956c
 
 * Unacceptable Conduct (U):
   * Members shall not
