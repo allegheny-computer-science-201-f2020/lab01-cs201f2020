@@ -142,10 +142,7 @@ how long a decision will take to implement.
 
 ### Postmortems
 
-    Postmortems are great ways of looking at and analyzing the performance of the
-    project after its launch. Through postmortems we can look at what was successful
-    and what failed and needs improvement. These discussions also provide great
-    insight in how to improve in future projects.
+    Postmortems are great ways of looking at and analyzing the performance of the project after its launch. Through postmortems we can look at what was successful and what failed and needs improvement. These discussions also provide great insight in how to improve in future projects.
 
     * Acceptable Conduct (A):
       * Members shall
@@ -214,42 +211,42 @@ how long a decision will take to implement.
         * :heavy_exclamation_mark: TODO: add any additional items in the U category for the resolving conflicts as a team
         - Mai - Harassing others with discriminatory jokes and languages
         - Bailey - holding grudges against others for previous conflicts
-    	
+
 ## Infractions
 
-An infraction occurs when class member(s) violate the agreed
-rules present in the code of conduct. Any action
-that is considered "Unacceptable" will cause an
-infraction. Class member(s) should avoid infractions since the accumulation of
-them would cause penalties and hinder the progress of the project.
+    An infraction occurs when class member(s) violate the agreed
+    rules present in the code of conduct. Any action
+    that is considered "Unacceptable" will cause an
+    infraction. Class member(s) should avoid infractions since the accumulation of
+    them would cause penalties and hinder the progress of the project.
 
-The severity of the infraction is determined by the number of
-previous infractions. Higher number of past infractions would cause a higher
-level infraction and thus a more severe penalty.
+    The severity of the infraction is determined by the number of
+    previous infractions. Higher number of past infractions would cause a higher
+    level infraction and thus a more severe penalty.
 
-This guideline for infractions is separate from the Allegheny College Honor code
-guidelines. While the Honor Code involves all students in Allegheny College and
-is enforced by the college's Honor Committee, this code of conduct only
-includes members of the Data Abstraction class for the Fall semester
-of 2020.
+    This guideline for infractions is separate from the Allegheny College Honor code
+    guidelines. While the Honor Code involves all students in Allegheny College and
+    is enforced by the college's Honor Committee, this code of conduct only
+    includes members of the Data Abstraction class for the Fall semester
+    of 2020.
 
-* *Infractions shall be imposed at three different levels of severity:*
-  * Level I: Any violation of a code of conduct rule is by default a Level I
-  infraction. Technical leaders and instructor will be
-  keeping track of infractions.
-  :heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
-  * Level II: Upon the accumulation of three level I infractions, project
-  managers and the instructor will issue a formal level II infraction.
-  :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
-  * Level III A Level III infraction will be given to an individual who has
-  accumulated five Level I infractions.
-  :heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
+    * *Infractions shall be imposed at three different levels of severity:*
+    * Level I: Any violation of a code of conduct rule is by default a Level I
+    infraction. Technical leaders and instructor will be
+    keeping track of infractions.
+    :heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
+    * Level II: Upon the accumulation of three level I infractions, project
+    managers and the instructor will issue a formal level II infraction.
+    :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
+    * Level III A Level III infraction will be given to an individual who has
+    accumulated five Level I infractions.
+    :heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
 
-Class member(s) are encouraged to report any infractions in order to ensure
-a safe, inclusive and collegial environment.
+    Class member(s) are encouraged to report any infractions in order to ensure
+    a safe, inclusive and collegial environment.
 
-Class member(s) may appeal any infraction to the instructor of the class.
-Any decision made by the instructor for the given infraction(s) will be final.
+    Class member(s) may appeal any infraction to the instructor of the class.
+    Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
