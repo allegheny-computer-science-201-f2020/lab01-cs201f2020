@@ -112,6 +112,7 @@ truly be all there.
     * Attempt to dominate a lab discussions
     * Avoid contributing to lab discussions
     * Demonstrate disruptive behavior that inhibits others from participating in discussions
+    * Discriminate against team members based on race, class year, gender, or level of knowledge
 
 ### Decisions
 
