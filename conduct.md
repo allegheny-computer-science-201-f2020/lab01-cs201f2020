@@ -41,6 +41,7 @@
     * Violate the Allegheny honor code in regards to all submitted work
     * Navigate to other websites or programs not related to class materials
     * Directly copy another peer's work without crediting them
+    * Turning in assignments excessively late 
     * :heavy_exclamation_mark: TODO: add any additional items in the U category
 
 ### Attendance
