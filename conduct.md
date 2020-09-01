@@ -9,19 +9,19 @@
 
 ## Overall Conduct
 
-  This section defines how each class member should and should not act while
-  participating in CMPSC 201 course during Fall 2020. Everyone is
-  required to adhere to not only this section, but also the following eight
-  sections of this Code of Conduct. Most important in this section is that
-  members respect their peers, regardless of race or gender, as learners. This
-  is a course in which individuals have different skillsets and different
-  levels of mastery in those skills, and disrespecting or shunning a class member
-  for lack of knowledge violates this Code of Conduct. Viewing and using other
-  people's work is a core part of learning  how to learn and code effectively, yet when
-  used irresponsibly (such as directly copying another peer's work without their
-  permission or without crediting them) such code will negatively impact
-  learning success. Therefore, members of this course should adhere to
-  Allegheny's honor code for all submitted work.
+This section defines how each class member should and should not act while
+participating in CMPSC 201 course during Fall 2020. Everyone is
+required to adhere to not only this section, but also the following eight
+sections of this Code of Conduct. Most important in this section is that
+members respect their peers, regardless of race or gender, as learners. This
+is a course in which individuals have different skillsets and different
+levels of mastery in those skills, and disrespecting or shunning a class member
+for lack of knowledge violates this Code of Conduct. Viewing and using other
+people's work is a core part of learning  how to learn and code effectively, yet when
+used irresponsibly (such as directly copying another peer's work without their
+permission or without crediting them) such code will negatively impact
+learning success. Therefore, members of this course should adhere to
+Allegheny's honor code for all submitted work.
 
 * Acceptable Conduct (A):
   * Members shall
@@ -142,118 +142,104 @@ how long a decision will take to implement.
 
 ### Postmortems
 
-  Postmortems are great ways of looking at and analyzing the performance of
-  the project after its launch. Through postmortems we can look at what was
-  successful and what failed and needs improvement. These discussions also
-  provide great insight in how to improve in future projects.
+Postmortems are great ways of looking at and analyzing the performance of
+the project after its launch. Through postmortems we can look at what was
+successful and what failed and needs improvement. These discussions also
+provide great insight in how to improve in future projects.
 
-  * Acceptable Conduct (A):
-    * Members shall
-      * Work as a team to create a postmortem plan to review and fix sections of
-        the project
-      * Come up with different approaches to solve issues with the project
-      * Participate in the discussions in a respectful and courteous manner
-        while adhering to the communications section of the code of conduct
-      * Provide constructive feedback and propose solutions for issues faced
-      * Receive feedback and discuss how it could be used to improve future projects and assignments
-      * :heavy_exclamation_mark: TODO: add any additional items in the A category for the doing postmortems as a team
+* Acceptable Conduct (A):
+  * Members shall
+    * Work as a team to create a postmortem plan to review and fix sections of the project
+    * Come up with different approaches to solve issues with the project
+    * Participate in the discussions in a respectful and courteous manner
+    while adhering to the communications section of the code of conduct
+    * Provide constructive feedback and propose solutions for issues faced
+    * Receive feedback and discuss how it could be used to improve future projects and assignments
+    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the doing postmortems as a team
+    * Bailey Communicate and think practically/realistically on ways to improve the program based on efficiency and the skills we have learned throughout the course and at Allegheny.
+    * Kiley Account for situational factors that may come up with remote work when giving feedback and discussing solutions
+    * Jordan All post mortems should be blameless to increase accountability between team members and to prevent anyone being blamed/targeted for mistakes.
+    * Jordan All decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members.
 
-  - Bailey Communicate and think practically/realistically on ways to improve the program based on efficiency and the skills we have learned throughout the course and at Allegheny.
-  - Kiley Account for situational factors that may come up with remote work when giving feedback and discussing solutions
-  - Jordan All post mortems should be blameless to increase accountability between team members and to prevent anyone being blamed/targeted for mistakes.
-  - Jordan All decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members.
-
-  * Unacceptable Conduct (U):
-    * Members shall not
-      * Insult others while presenting criticism
-      * Blame other members for any issues with the final product
-      * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed
-      * :heavy_exclamation_mark: TODO: add any additional items in the U category for the doing postmortems as a team
-      * Mai - Make fun of other people’s solutions
-      * Bailey - Take all credit for all of the team members work that the individual did not do and blame others for everything wrong
-      * Jordan - Specifically target any one team member when discussing the bugs remaining in the project.
-      * Jordan - Make a decision based on the thoughts of less than the majority of a group's members.
-      * Kiley - claim that one subjective way of achieving a solution is the only correct way of working towards it
+* Unacceptable Conduct (U):
+  * Members shall not
+    * Insult others while presenting criticism
+    * Blame other members for any issues with the final product
+    * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed
+    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the doing postmortems as a team
+    * Mai - Make fun of other people’s solutions
+    * Bailey - Take all credit for all of the team members work that the individual did not do and blame others for everything wrong
+    * Jordan - Specifically target any one team member when discussing the bugs remaining in the project.
+    * Jordan - Make a decision based on the thoughts of less than the majority of a group's members.
+    * Kiley - claim that one subjective way of achieving a solution is the only correct way of working towards it
 
 ### Conflicts
 
-  It is inevitable that conflicts will arise when working as a large group.
-  It is essential, however, to resolve these conflicts in a
-  professional manner while keeping in mind the concerns of everyone involved.
+It is inevitable that conflicts will arise when working as a large group. It is essential, however, to resolve these conflicts in a professional manner while keeping in mind the concerns of everyone involved.
 
-  * Acceptable Conduct (A):
-    * Members shall
-      * Resolve conflicts before they become severe by engaging in respectful
-        conversations
-      * If conflicts become severe between class members, they should be brought
-        to the attention of the project managers who will work to resolve any issues
-      * Project managers, technical leaders and the course instructor are
-        responsible for resolving any issues by proposing solutions to reach a
-        compromise between class members involved
-      * Project managers may reassign different tasks to group members to solve a
-        conflict
-      * The course instructor has a final say in how severe conflicts
-        should be resolved
-      * Be respectful and open-minded with everybody in the team when
-        encountering a conflict
+* Acceptable Conduct (A):
+  * Members shall
+    * Resolve conflicts before they become severe by engaging in respectful conversations
+    * If conflicts become severe between class members, they should be brought
+    to the attention of the project managers who will work to resolve any issues
+    * Project managers, technical leaders and the course instructor are
+    responsible for resolving any issues by proposing solutions to reach a
+    compromise between class members involved
+    * Project managers may reassign different tasks to group members to solve a conflict
+    * The course instructor has a final say in how severe conflicts should be resolved
+    * Be respectful and open-minded with everybody in the team when encountering a conflict
+    * :heavy_exclamation_mark: TODO: add any additional items in the A category for resolving conflicts as a team
+    * (MAI) Conflict involving violence will be reported to the instructors and Dean of students
+    * Mai - Be considerate and listen to everyone in the group carefully before determining a suitable solution for the issue
+    * (Jordan)
+    * (Jordan)
+    * Bailey -do not physically injure others or try or attack members in order to resolve conflicts
 
-      * :heavy_exclamation_mark: TODO: add any additional items in the A category for resolving conflicts as a team
-
-      * (MAI) Conflict involving violence will be reported to the instructors and Dean of students
-
-      * Mai - Be considerate and listen to everyone in the group carefully before determining a suitable solution for the issue
-
-      * (Jordan)
-      * (Jordan)
-
-      - Bailey -do not physically injure others or try or attack members in order to resolve conflicts
-
-  * Unacceptable Conduct (U):
-    * Members shall not
-      * Encourage or engage in conflicts that undermine the code
-        of conduct
-      * Escalate existing conflicts that jeopardize the group project
-      * Disregard or refuse to resolve an existing conflict
+* Unacceptable Conduct (U):
+  * Members shall not
+    * Encourage or engage in conflicts that undermine the code of conduct
+    * Escalate existing conflicts that jeopardize the group project
+    * Disregard or refuse to resolve an existing conflict
         that has been brought to their attention
-      * :heavy_exclamation_mark: TODO: add any additional items in the U category for the resolving conflicts as a team
-      - Mai - Harassing others with discriminatory jokes and languages
-      - Bailey - holding grudges against others for previous conflicts
+    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the resolving conflicts as a team
+    * Mai - Harassing others with discriminatory jokes and languages
+    * Bailey - holding grudges against others for previous conflicts
 
 ## Infractions
 
-  An infraction occurs when class member(s) violate the agreed
-  rules present in the code of conduct. Any action
-  that is considered "Unacceptable" will cause an
-  infraction. Class member(s) should avoid infractions since the accumulation of
-  them would cause penalties and hinder the progress of the project.
+An infraction occurs when class member(s) violate the agreed
+rules present in the code of conduct. Any action
+that is considered "Unacceptable" will cause an
+infraction. Class member(s) should avoid infractions since the accumulation of
+them would cause penalties and hinder the progress of the project.
 
-  The severity of the infraction is determined by the number of
-  previous infractions. Higher number of past infractions would cause a higher
-  level infraction and thus a more severe penalty.
+The severity of the infraction is determined by the number of
+previous infractions. Higher number of past infractions would cause a higher
+level infraction and thus a more severe penalty.
 
-  This guideline for infractions is separate from the Allegheny College Honor code
-  guidelines. While the Honor Code involves all students in Allegheny College and
-  is enforced by the college's Honor Committee, this code of conduct only
-  includes members of the Data Abstraction class for the Fall semester
-  of 2020.
+This guideline for infractions is separate from the Allegheny College Honor code
+guidelines. While the Honor Code involves all students in Allegheny College and
+is enforced by the college's Honor Committee, this code of conduct only
+includes members of the Data Abstraction class for the Fall semester
+of 2020.
 
-    * *Infractions shall be imposed at three different levels of severity:*
-    * Level I: Any violation of a code of conduct rule is by default a Level I
-    infraction. Technical leaders and instructor will be
-    keeping track of infractions.
-    :heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
-    * Level II: Upon the accumulation of three level I infractions, project
-    managers and the instructor will issue a formal level II infraction.
-    :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
-    * Level III A Level III infraction will be given to an individual who has
-    accumulated five Level I infractions.
-    :heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
+  * *Infractions shall be imposed at three different levels of severity:*
+  * Level I: Any violation of a code of conduct rule is by default a Level I
+  infraction. Technical leaders and instructor will be
+  keeping track of infractions.
+  :heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
+  * Level II: Upon the accumulation of three level I infractions, project
+  managers and the instructor will issue a formal level II infraction.
+  :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
+  * Level III A Level III infraction will be given to an individual who has
+  accumulated five Level I infractions.
+  :heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
 
-    Class member(s) are encouraged to report any infractions in order to ensure
-    a safe, inclusive and collegial environment.
+Class member(s) are encouraged to report any infractions in order to ensure
+a safe, inclusive and collegial environment.
 
-    Class member(s) may appeal any infraction to the instructor of the class.
-    Any decision made by the instructor for the given infraction(s) will be final.
+Class member(s) may appeal any infraction to the instructor of the class.
+Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
