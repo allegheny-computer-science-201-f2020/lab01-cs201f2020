@@ -78,7 +78,7 @@
     opinions and development are limited to professional discourse.
     * Refuse to complete work on sections of the project that they had said they
     would work on prior.
-    
+
 ## Team Work
 
 Some of the class activities and lab projects will require team collaboration.
