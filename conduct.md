@@ -31,6 +31,7 @@
     * Follow the honor code on all submitted work
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for the overall conduct
     * During class sessions, avoid navigating to other websites or programs not related to class materials.
+    * Make sure to come prepared to class everyday
 
 * Unacceptable Conduct (U):
   * Members shall not
