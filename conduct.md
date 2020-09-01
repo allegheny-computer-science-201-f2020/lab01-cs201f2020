@@ -63,8 +63,6 @@
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for communication
-    in class (in-person and online), lab and practical sessions, and during team meetings
     * Ask questions if they are unsure of what they need to do or how to do it
     * Listen to and consider ideas presented by others
 
