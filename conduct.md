@@ -92,11 +92,13 @@ truly be all there.
     * Respond quickly in Slack to clarify confusing issues or assist other colleagues
     * Value and consider everyone’s opinion
     * Be willing to meetup and work outside of class
+    * Be respectful of each team member's time commitments when working outside of class
     * Approach issues and team members with professionalism
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
-    * 
+    * Be understanding and compassionate regarding the various learning/living situations a student may face this semester
+  
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -107,7 +109,7 @@ truly be all there.
     collaboration in lab and Slack
     * Disrupt working teams' effectiveness by lack of collaboration
     * Attempt to dominate a lab discussions
-    *
+    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the participation in a team
 
 ### Decisions
 
