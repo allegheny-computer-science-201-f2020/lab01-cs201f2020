@@ -225,19 +225,15 @@ of 2020.
 
 * *Infractions shall be imposed at three different levels of severity:*
 
-* Level I: Any violation of a code of conduct rule is by default a Level I
-infraction. Technical leaders and instructor will be
-keeping track of infractions.
+* Level I: Any violation of a code of conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
 
-* Level II: Upon the accumulation of three level I infractions, project
-managers and the instructor will issue a formal level II infraction.
+* Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
 
-* Level III A Level III infraction will be given to an individual who has
-accumulated five Level I infractions.
+* Level III A Level III infraction will be given to an individual who has accumulated five Level I infractions.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
 
