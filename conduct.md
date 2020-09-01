@@ -92,11 +92,14 @@ truly be all there.
     * Respond quickly in Slack to clarify confusing issues or assist other colleagues
     * Value and consider everyone’s opinion
     * Be willing to meetup and work outside of class
+    * Be respectful of each team member's time commitments when working outside of class
     * Approach issues and team members with professionalism
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
     * Ensure that they are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
+    * Be understanding and compassionate regarding the various learning/living situations a student may face this semester
+  
 
 * Unacceptable Conduct (U):
   * Members shall not
