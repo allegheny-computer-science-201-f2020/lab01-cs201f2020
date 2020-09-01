@@ -29,9 +29,9 @@
     * Allow peers to voice their opinions and questions
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
+    * Come prepared to class everyday
+    * Pay attention to the lecturer or presenter when being presented to
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for the overall conduct
-    * During class sessions, avoid navigating to other websites or programs not related to class materials.
-    * Make sure to come prepared to class everyday
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -39,6 +39,8 @@
     * Prevent peers from voicing their opinions and questions
     * Violate any part of this Code of Conduct
     * Violate the Allegheny honor code in regards to all submitted work
+    * Navigate to other websites or programs not related to class materials
+    * Directly copy another peer's work without crediting them
     * :heavy_exclamation_mark: TODO: add any additional items in the U category
 
 ### Attendance
