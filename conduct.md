@@ -142,7 +142,10 @@ how long a decision will take to implement.
 
 ### Postmortems
 
-    Postmortems are great ways of looking at and analyzing the performance of the project after its launch. Through postmortems we can look at what was successful and what failed and needs improvement. These discussions also provide great insight in how to improve in future projects.
+  Postmortems are great ways of looking at and analyzing the performance of
+  the project after its launch. Through postmortems we can look at what was
+  successful and what failed and needs improvement. These discussions also
+  provide great insight in how to improve in future projects.
 
     * Acceptable Conduct (A):
       * Members shall
@@ -174,9 +177,9 @@ how long a decision will take to implement.
 
 ### Conflicts
 
-    It is inevitable that conflicts will arise when working as a large group.
-    It is essential, however, to resolve these conflicts in a
-    professional manner while keeping in mind the concerns of everyone involved.
+  It is inevitable that conflicts will arise when working as a large group.
+  It is essential, however, to resolve these conflicts in a
+  professional manner while keeping in mind the concerns of everyone involved.
 
     * Acceptable Conduct (A):
       * Members shall
@@ -214,21 +217,21 @@ how long a decision will take to implement.
 
 ## Infractions
 
-    An infraction occurs when class member(s) violate the agreed
-    rules present in the code of conduct. Any action
-    that is considered "Unacceptable" will cause an
-    infraction. Class member(s) should avoid infractions since the accumulation of
-    them would cause penalties and hinder the progress of the project.
+  An infraction occurs when class member(s) violate the agreed
+  rules present in the code of conduct. Any action
+  that is considered "Unacceptable" will cause an
+  infraction. Class member(s) should avoid infractions since the accumulation of
+  them would cause penalties and hinder the progress of the project.
 
-    The severity of the infraction is determined by the number of
-    previous infractions. Higher number of past infractions would cause a higher
-    level infraction and thus a more severe penalty.
+  The severity of the infraction is determined by the number of
+  previous infractions. Higher number of past infractions would cause a higher
+  level infraction and thus a more severe penalty.
 
-    This guideline for infractions is separate from the Allegheny College Honor code
-    guidelines. While the Honor Code involves all students in Allegheny College and
-    is enforced by the college's Honor Committee, this code of conduct only
-    includes members of the Data Abstraction class for the Fall semester
-    of 2020.
+  This guideline for infractions is separate from the Allegheny College Honor code
+  guidelines. While the Honor Code involves all students in Allegheny College and
+  is enforced by the college's Honor Committee, this code of conduct only
+  includes members of the Data Abstraction class for the Fall semester
+  of 2020.
 
     * *Infractions shall be imposed at three different levels of severity:*
     * Level I: Any violation of a code of conduct rule is by default a Level I
