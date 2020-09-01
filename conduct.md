@@ -32,7 +32,6 @@
     * Come prepared to class everyday
     * Pay attention to the lecturer or presenter when being presented to
     * Show respect to the instructor through paying attention during class and participating during class.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the overall conduct
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -42,18 +41,22 @@
     * Violate the Allegheny honor code in regards to all submitted work
     * Navigate to other websites or programs not related to class materials
     * Directly copy another peer's work without crediting them
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category
 
 ### Attendance
 
 * Acceptable Conduct (A):
   * Members shall
-    * Arrive to class on time
-    *
+    * Arrive to class in a timely manner
+    * Regularly attend class sessions
     * :heavy_exclamation_mark: TODO: add items in the A category for attendance
 
 * Unacceptable Conduct (U):
   * Members shall not
+<<<<<<< HEAD
+=======
+    * Miss three consecutive days without a valid excuse
+    * Not arrive to a class more than fifteen minutes without a valid excuse
+>>>>>>> a7e843b20ce6608ab63c64e929abfe75361395e6
     * :heavy_exclamation_mark: TODO: add items in the U category for attendance
 
 ### Deadlines
