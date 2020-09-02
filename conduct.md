@@ -53,9 +53,10 @@
 
 * Acceptable Conduct (A):
   * Members shall
-    * Turn in work in a timely fashion.
-    * Communicate with others when you're done with your part.
-    * Check if your work are free of errors.
+    * Turn in work in a timely fashion determined by the course instructor or the team.
+    * Set up smaller progression deadlines to ensure that the team is on schedule.
+    * Communicate with team members when assigned tasks are completed.
+    * Work together to ensure that submitted work is free of errors.
 
 * Unacceptable Conduct (U):
   * Members shall not
