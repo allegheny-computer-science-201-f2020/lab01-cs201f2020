@@ -49,7 +49,7 @@ and remotely depending on what attendance group they were assigned at the start
 of the semester. In addition to that and due to the nature of the course students
 should also be expected to communicate and work collaboratively outside of class
 with team members on a laboratory or project assignment. There are exceptions to
-this rule that take into account emergencies and illnesses.  
+this rule that take into account emergencies and illnesses.
 
 * Acceptable Conduct (A):
   * Members shall
