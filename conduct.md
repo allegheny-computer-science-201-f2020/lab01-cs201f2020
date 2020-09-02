@@ -29,7 +29,9 @@ Allegheny's honor code for all submitted work.
     * Allow peers to voice their opinions and questions
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the overall conduct
+    * Come prepared to class
+    * Pay attention to the lecturer or presenter when being presented
+    * Show respect to the instructor through paying attention during class and participating during class
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -37,39 +39,70 @@ Allegheny's honor code for all submitted work.
     * Prevent peers from voicing their opinions and questions
     * Violate any part of this Code of Conduct
     * Violate the Allegheny honor code in regards to all submitted work
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category
+    * Navigate to other websites or programs not related to class materials
+    * Directly copy another peer's work without crediting them
 
 ### Attendance
 
+Students are expected to attend class sessions and laboratory sessions in person
+and remotely depending on what attendance group they were assigned at the start
+of the semester. In addition to that and due to the nature of the course students
+should also be expected to communicate and work collaboratively outside of class
+with team members on a laboratory or project assignment. There are exceptions to
+this rule that take into account emergencies and illnesses.  
+
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for attendance
+    * Arrive to class in a timely manner
+    * Regularly attend class sessions
+    * Attend outside sessions with group members, if needed, for group projects
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for attendance
+    * Miss three consecutive days without a valid excuse
+    * Not arrive to a class more than fifteen minutes without a valid excuse
+    * Leave class early without an excuse
 
 ### Deadlines
 
+Students are expected to follow the due dates of assignments online through the
+course website and on Slack. Exceptions should be made for emergencies and illnesses.
+
 * Acceptable Conduct (A):
   * Members shall
+    * Turn in work before a due date
+    * Watch the course website and Slack for changes to due dates
     * :heavy_exclamation_mark: TODO: add items in the A category for deadlines
 
 * Unacceptable Conduct (U):
   * Members shall not
+    * Turn in their work after a due date
+    * Turn in their work through the incorrect medium.
     * :heavy_exclamation_mark: TODO: add items in the U category for deadlines
 
 ### Communication
 
+Since the nature of this course has changed communication is more vital than ever
+for students. Students are expected to stay in regular communication and
+watch and participate in Slack, Zoom, and email communications.
+
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for communication
-    in class (in-person and online), lab and practical sessions, and during team meetings
+    * Ask questions if they are unsure of what they need to do or how to do it
+    * Listen to and consider ideas presented by others
+    * Give proper notice about any absences to lab meetings or changes they will make
+    to the project itself
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for communication
-    in class (in-person and online), lab and practical sessions, and during team meetings
+    * Leave messages unanswered for unacceptable lengths of time, thus disrupting
+    effective collaboration and productivity. This extends to Email, Slack, Github,
+    and any other mediums of communication
+    * Disrespect the work and opinions of others or otherwise provide deconstructive
+    criticism. Github threads, Slack channels, and any other platforms for discussing
+    opinions and development are limited to professional discourse
+    * Refuse to complete work on sections of the project that they had said they
+    would work on prior
 
 ## Team Work
 
@@ -92,11 +125,14 @@ truly be all there.
     * Respond quickly in Slack to clarify confusing issues or assist other colleagues
     * Value and consider everyone’s opinion
     * Be willing to meetup and work outside of class
+    * Be respectful of each team member's time commitments when working outside of class
     * Approach issues and team members with professionalism
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the participation in a team
+    * Ensure that they are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
+    * Be understanding and compassionate regarding the various learning/living situations a student may face this semester
+    * Ask questions when necessary using an * in the Zoom chat or raising your hand in person.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -107,7 +143,9 @@ truly be all there.
     collaboration in lab and Slack
     * Disrupt working teams' effectiveness by lack of collaboration
     * Attempt to dominate a lab discussions
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the participation in a team
+    * Avoid contributing to lab discussions
+    * Demonstrate disruptive behavior that inhibits others from participating in discussions
+    * Discriminate against team members based on race, class year, gender, or level of knowledge
 
 ### Decisions
 
@@ -125,7 +163,7 @@ how long a decision will take to implement.
     * Report errors or bugs to the appropriate team members
     * Record what choice was made and when it was implemented
     * Defer to the Professor or student technical leaders when unsure
-    * Distribute tasks to all team members
+    * Distribute tasks to all team members in a timely manner
     * A new decision should be made when a previous decision cannot be implemented
     * When a choice is disputed, use Github issue tracker and let team members
       share their opinion
@@ -138,6 +176,7 @@ how long a decision will take to implement.
     * Directly contradict the decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
+    * Refuse to use the issue tracker to discuss a disagreement
     * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
 
 ### Postmortems
@@ -159,6 +198,7 @@ provide great insight in how to improve in future projects.
     * Account for situational factors that may come up with remote work when giving feedback and discussing solutions
     * Keep postmortems blameless to increase the accountability in a group and to prevent team members from being blamed
     * All decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members
+    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -170,6 +210,7 @@ provide great insight in how to improve in future projects.
     * Target a specific team member when discussing a post mortem or the remaining bugs in a laboratory or project assignment
     * Decide what to do after a postmortem that the majority of the project or laboratory group doesn't agree with
     * Claim that one subjective way of achieving a solution is the only correct way of working towards it
+    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
 
 ### Conflicts
 
@@ -190,6 +231,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Be considerate and listen to everyone in the group carefully before determining a suitable solution for the issue
     * Politely disagree with other students ideas but not in a way that harms the group or individual students
     * Not physically injure others or try or attack members in order to resolve conflicts
+    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -199,6 +241,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Harassing others with discriminatory jokes and languages
     * Hold grudges against others for previous conflicts
     * Hide conflicts within a group to prevent interventions to mitigate problems
+    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
 
 ## Infractions
 
