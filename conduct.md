@@ -90,8 +90,8 @@ watch and participate in Slack, Zoom, and email communications.
   * Members shall
     * Ask questions if they are unsure of what they need to do or how to do it
     * Listen to and consider ideas presented by others
-    * Give proper notice about any absences to lab meetings or changes they will make
-    to the project itself
+    * Give proper notice about any absences to lab meetings or changes they will make to the project itself
+
 
 * Unacceptable Conduct (U):
   * Members shall not
