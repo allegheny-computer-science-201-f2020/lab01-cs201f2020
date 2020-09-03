@@ -266,8 +266,8 @@ of 2020.
 * Level I: Any violation of a code of conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
+
 * Warning to the student not to repeat their behavior
-* 
 
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
 
