@@ -29,7 +29,7 @@ Allegheny's honor code for all submitted work.
     * Allow peers to voice their opinions and questions
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
-    * Come prepared to class
+    * Come prepared to class and lab sessions
     * Pay attention to the lecturer or presenter when being presented
     * Show respect to the instructor through paying attention during class and participating during class
 
@@ -132,7 +132,7 @@ truly be all there.
     * Raise a disagreeing opinion in a respectful manner
     * Ensure that they are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
     * Be understanding and compassionate regarding the various learning/living situations a student may face this semester
-    * Ask questions when necessary using an * in the Zoom chat or raising your hand in person.
+    * Ask questions when necessary using an * in the Zoom chat or raising your hand if in the classroom
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -266,6 +266,8 @@ of 2020.
 * Level I: Any violation of a code of conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
+* Warning to the student not to repeat their behavior
+* 
 
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
 
