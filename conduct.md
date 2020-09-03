@@ -39,7 +39,7 @@ Allegheny's honor code for all submitted work.
     * Prevent peers from voicing their opinions and questions
     * Violate any part of this Code of Conduct
     * Violate the Allegheny honor code in regards to all submitted work
-    * Navigate to other websites or programs not related to class materials
+    * Navigate to other websites or programs unrelated to class materials
     * Directly copy another peer's work without crediting them
 
 ### Attendance
@@ -53,7 +53,7 @@ Allegheny's honor code for all submitted work.
 * Unacceptable Conduct (U):
   * Members shall not
     * Miss three consecutive days without a valid excuse
-    * Not arrive to a class more than fifteen minutes without a valid excuse
+    * Arrive to a class more than fifteen minutes late without a valid excuse
     * Leave class early without an excuse
 
 ### Deadlines
