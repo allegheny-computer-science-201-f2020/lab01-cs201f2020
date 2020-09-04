@@ -17,7 +17,7 @@ members respect their peers, regardless of race or gender, as learners. This
 is a course in which individuals have different skillsets and different
 levels of mastery in those skills, and disrespecting or shunning a class member
 for lack of knowledge violates this Code of Conduct. Viewing and using other
-people's work is a core part of learning  how to learn and code effectively, yet 
+people's work is a core part of learning  how to learn and code effectively, yet
 when used irresponsibly (such as directly copying another peer's work without their
 permission or without crediting them) such code will negatively impact
 learning success. Therefore, members of this course should adhere to
