@@ -30,7 +30,7 @@ Allegheny's honor code for all submitted work.
     * Read, understand, and follow all parts of this code of Conduct
     * Follow the honor code on all submitted work
     * Come prepared to class and lab sessions
-    * Pay attention to the lecturer or presenter when being presented
+    * Pay attention to the lecturer or presenter
     * Show respect to the instructor through paying attention during class and participating during class
 
 * Unacceptable Conduct (U):
