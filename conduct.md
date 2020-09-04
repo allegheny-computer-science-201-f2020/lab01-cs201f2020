@@ -17,8 +17,8 @@ members respect their peers, regardless of race or gender, as learners. This
 is a course in which individuals have different skillsets and different
 levels of mastery in those skills, and disrespecting or shunning a class member
 for lack of knowledge violates this Code of Conduct. Viewing and using other
-people's work is a core part of learning  how to learn and code effectively, yet when
-used irresponsibly (such as directly copying another peer's work without their
+people's work is a core part of learning  how to learn and code effectively, yet 
+when used irresponsibly (such as directly copying another peer's work without their
 permission or without crediting them) such code will negatively impact
 learning success. Therefore, members of this course should adhere to
 Allegheny's honor code for all submitted work.
@@ -27,8 +27,8 @@ Allegheny's honor code for all submitted work.
   * Members shall
     * Show respect for all peers as learners and team members
     * Allow peers to voice their opinions and questions
-    * Read, understand, and follow all parts of this code of Conduct
-    * Follow the honor code on all submitted work
+    * Read, understand, and adhere to all parts of this Code of Conduct
+    * Follow the Allegheny College honor code on all submitted work
     * Come prepared to class everyday
     * Pay attention to the lecturer or presenter when being presented to
     * Show respect to the instructor through paying attention during class and participating during class.
@@ -48,12 +48,12 @@ Allegheny's honor code for all submitted work.
   * Members shall
     * Arrive to class in a timely manner
     * Regularly attend class sessions
-    * Attend outside sessions with group members, if needed, for group projects
+    * Attend outside sessions with group members for group projects, if needed
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Miss three consecutive days without a valid excuse
-    * Not arrive to a class more than fifteen minutes without a valid excuse
+    * Arrive to a class more than fifteen minutes late without a valid excuse
     * Leave class early without an excuse
 
 ### Deadlines
@@ -72,19 +72,19 @@ Allegheny's honor code for all submitted work.
   * Members shall
     * Ask questions if they are unsure of what they need to do or how to do it
     * Listen to and consider ideas presented by others
-    * Give proper notice about any absences to lab meetings or changes they will make
-    to the project itself.
+    * Give proper notice about any absences to lab meetings
+    * Give proper notice about intended changes to the project, itself
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Leave messages unanswered for unacceptable lengths of time, thus disrupting
     effective collaboration and productivity. This extends to Email, Slack, Github,
     and any other mediums of communication.
-    * Disrespect the work and opinions of others or otherwise provide deconstructive
-    criticism. Github threads, Slack channels, and any other platforms for discussing
-    opinions and development are limited to professional discourse.
+    * Disrespect the work and opinions of others or otherwise provide deconstructive criticism
+    * Use Github threads, Slack channels, and any other platforms for discussing
+    opinions and development in an unprofessional manner
     * Refuse to complete work on sections of the project that they had said they
-    would work on prior.
+    would work on prior
 
 ## Team Work
 
@@ -141,24 +141,22 @@ how long a decision will take to implement.
 * Acceptable Conduct (A):
   * Members shall
     * Take into account everyone's input in the decision making process
-    * Stay flexible and be willing to change if it would be productive
+    * Stay flexible and be willing to change if productive
     * Report errors or bugs to the appropriate team members
-    * Record what choice was made and when it was implemented
-    * Defer to the Professor or student technical leaders when unsure
+    * Record what choice about design was made and when it was implemented
+    * Defer to the Professor or student technical leaders when unsure about tasks or implementation
     * Distribute tasks to all team members
-    * A new decision should be made when a previous decision cannot be implemented
+    * Make new decisions when a previous decision cannot be implemented
     * When a choice is disputed, use Github issue tracker and let team members
       share their opinion
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Let an individual team member or a project manager make major decisions
     * Make decisions without finding evidence showing that it would likely be beneficial
-    * Directly contradict the decision
+    * Directly contradict a team decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
 
 ### Postmortems
 
@@ -170,9 +168,9 @@ provide great insight in how to improve in future projects.
 * Acceptable Conduct (A):
   * Members shall
     * Work as a team to create a postmortem plan to review and fix sections of the project
-    * Come up with different approaches to solve issues with the project
+    * Develop different approaches to solve issues with the project
     * Participate in the discussions in a respectful and courteous manner
-    while adhering to the communications section of the code of conduct
+    while adhering to the communications section of the Code of Conduct
     * Provide constructive feedback and propose solutions for issues faced
     * Receive feedback and discuss how it could be used to improve future projects and assignments
     * Communicate and think practically/realistically on ways to improve the program based on efficiency and the skills we have learned throughout the course and at Allegheny
@@ -198,32 +196,31 @@ It is inevitable that conflicts will arise when working as a large group. It is 
 * Acceptable Conduct (A):
   * Members shall
     * Resolve conflicts before they become severe by engaging in respectful conversations
-    * If conflicts become severe between class members, they should be brought
-    to the attention of the project managers who will work to resolve any issues
+    * Communicate with project managers if conflicts become severe between class members, who will work to resolve any issues
     * Project managers, technical leaders and the course instructor are
     responsible for resolving any issues by proposing solutions to reach a
     compromise between class members involved
     * Project managers may reassign different tasks to group members to solve a conflict
-    * The course instructor has a final say in how severe conflicts should be resolved
+    * Give the course instructor final say in how severe conflicts should be resolved
     * Be respectful and open-minded with everybody in the team when encountering a conflict
-    * Conflict involving violence will be reported to the instructors and Dean of students
+    * Report conflict involving violence to the instructors and Dean of Students
     * Be considerate and listen to everyone in the group carefully before determining a suitable solution for the issue
     * Politely disagree with other students ideas but not in a way that harms the group or individual students
     * Not physically injure others or try or attack members in order to resolve conflicts
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Encourage or engage in conflicts that undermine the code of conduct
+    * Encourage or engage in conflicts that undermine the code of Conduct
     * Escalate existing conflicts that jeopardize the group project
     * Disregard or refuse to resolve an existing conflict that has been brought to their attention
-    * Harassing others with discriminatory jokes and languages
+    * Harass others with discriminatory jokes and languages
     * Hold grudges against others for previous conflicts
     * Hide conflicts within a group to prevent interventions to mitigate problems
 
 ## Infractions
 
 An infraction occurs when class member(s) violate the agreed
-rules present in the code of conduct. Any action
+rules present in the code of C. Any action
 that is considered "Unacceptable" will cause an
 infraction. Class member(s) should avoid infractions since the accumulation of
 them would cause penalties and hinder the progress of the project.
@@ -234,13 +231,13 @@ level infraction and thus a more severe penalty.
 
 This guideline for infractions is separate from the Allegheny College Honor code
 guidelines. While the Honor Code involves all students in Allegheny College and
-is enforced by the college's Honor Committee, this code of conduct only
+is enforced by the college's Honor Committee, this code of C only
 includes members of the Data Abstraction class for the Fall semester
 of 2020.
 
 * *Infractions shall be imposed at three different levels of severity:*
 
-* Level I: Any violation of a code of conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
+* Level I: Any violation of a Code of Conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
 
@@ -261,4 +258,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Janyl Jumadinova
+Madelyn Kapfhammer
 :heavy_exclamation_mark: TODO: Add your name
