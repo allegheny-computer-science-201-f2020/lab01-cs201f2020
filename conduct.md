@@ -92,7 +92,6 @@ watch and participate in Slack, Zoom, and email communications.
     * Listen to and consider ideas presented by others
     * Give proper notice about any absences to lab meetings or changes they will make to the project itself
 
-
 * Unacceptable Conduct (U):
   * Members shall not
     * Leave messages unanswered for unacceptable lengths of time, thus disrupting
