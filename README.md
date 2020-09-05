@@ -57,7 +57,7 @@ Please see the course instructor if you have questions on these reading assignme
 Unlike all subsequent assignments, where you will be invited to use a provided
 GitHub Classroom link to create your own copy of the starter repository, in this
 lab all class members are going to work in the same
-[lab 01 repository](https://github.com/allegheny-computer-science-101-f2020/lab01-cs101f2020) following
+[lab 01 repository](https://github.com/allegheny-computer-science-201-f2020/lab01-cs201f2020) following
 [GitHub flow model](https://help.github.com/articles/github-flow/) to collaboratively improve
 the conduct guide.
 
