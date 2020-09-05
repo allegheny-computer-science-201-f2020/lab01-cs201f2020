@@ -84,7 +84,6 @@ course website and on Slack. Exceptions should be made for emergencies and illne
     * Neglect to inform group members of completion progress.
     * Turn in their work through the incorrect medium.
 
-
 ### Communication
 
 Since the nature of this course has changed communication is more vital than ever
