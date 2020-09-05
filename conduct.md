@@ -27,11 +27,19 @@ Allegheny's honor code for all submitted work.
   * Members shall
     * Show respect for all peers as learners and team members
     * Allow peers to voice their opinions and questions
+<<<<<<< HEAD
     * Read, understand, and adhere to all parts of this Code of Conduct
     * Follow the Allegheny College honor code on all submitted work
     * Come prepared to class everyday
     * Pay attention to the lecturer or presenter when being presented to
     * Show respect to the instructor through paying attention during class and participating during class.
+=======
+    * Read, understand, and follow all parts of this code of Conduct
+    * Follow the honor code on all submitted work
+    * Come prepared to class and lab sessions
+    * Pay attention to the lecturer or presenter
+    * Show respect to the instructor through paying attention during class and participating during class
+>>>>>>> 295bbc88037f685c71991d6ab162a52bc4c07138
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -43,6 +51,13 @@ Allegheny's honor code for all submitted work.
     * Directly copy another peer's work without crediting them
 
 ### Attendance
+
+Students are expected to attend class sessions and laboratory sessions in person
+and remotely depending on what attendance group they were assigned at the start
+of the semester. In addition to that and due to the nature of the course students
+should also be expected to communicate and work collaboratively outside of class
+with team members on a laboratory or project assignment. There are exceptions to
+this rule that take into account emergencies and illnesses.
 
 * Acceptable Conduct (A):
   * Members shall
@@ -58,15 +73,26 @@ Allegheny's honor code for all submitted work.
 
 ### Deadlines
 
+Students are expected to follow the due dates of assignments online through the
+course website and on Slack. Exceptions should be made for emergencies and illnesses.
+
 * Acceptable Conduct (A):
   * Members shall
+    * Turn in work before a due date
+    * Watch the course website and Slack for changes to due dates
     * :heavy_exclamation_mark: TODO: add items in the A category for deadlines
 
 * Unacceptable Conduct (U):
   * Members shall not
+    * Turn in their work after a due date
+    * Turn in their work through the incorrect medium.
     * :heavy_exclamation_mark: TODO: add items in the U category for deadlines
 
 ### Communication
+
+Since the nature of this course has changed communication is more vital than ever
+for students. Students are expected to stay in regular communication and
+watch and participate in Slack, Zoom, and email communications.
 
 * Acceptable Conduct (A):
   * Members shall
@@ -114,7 +140,7 @@ truly be all there.
     * Raise a disagreeing opinion in a respectful manner
     * Ensure that they are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
     * Be understanding and compassionate regarding the various learning/living situations a student may face this semester
-    * Ask questions when necessary
+    * Ask questions when necessary using an * in the Zoom chat or raising your hand if in the classroom
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -157,6 +183,8 @@ how long a decision will take to implement.
     * Directly contradict a team decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
+    * Refuse to use the issue tracker to discuss a disagreement
+    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
 
 ### Postmortems
 
@@ -177,6 +205,7 @@ provide great insight in how to improve in future projects.
     * Account for situational factors that may come up with remote work when giving feedback and discussing solutions
     * Keep postmortems blameless to increase the accountability in a group and to prevent team members from being blamed
     * All decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members
+    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -188,6 +217,7 @@ provide great insight in how to improve in future projects.
     * Target a specific team member when discussing a post mortem or the remaining bugs in a laboratory or project assignment
     * Decide what to do after a postmortem that the majority of the project or laboratory group doesn't agree with
     * Claim that one subjective way of achieving a solution is the only correct way of working towards it
+    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
 
 ### Conflicts
 
@@ -207,6 +237,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Be considerate and listen to everyone in the group carefully before determining a suitable solution for the issue
     * Politely disagree with other students ideas but not in a way that harms the group or individual students
     * Not physically injure others or try or attack members in order to resolve conflicts
+    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -216,6 +247,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Harass others with discriminatory jokes and languages
     * Hold grudges against others for previous conflicts
     * Hide conflicts within a group to prevent interventions to mitigate problems
+    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
 
 ## Infractions
 
@@ -240,6 +272,8 @@ of 2020.
 * Level I: Any violation of a Code of Conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
+
+* Warning to the student not to repeat their behavior
 
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
 
