@@ -27,19 +27,11 @@ Allegheny's honor code for all submitted work.
   * Members shall
     * Show respect for all peers as learners and team members
     * Allow peers to voice their opinions and questions
-<<<<<<< HEAD
     * Read, understand, and adhere to all parts of this Code of Conduct
     * Follow the Allegheny College honor code on all submitted work
     * Come prepared to class everyday
     * Pay attention to the lecturer or presenter when being presented to
-    * Show respect to the instructor through paying attention during class and participating during class.
-=======
-    * Read, understand, and follow all parts of this code of Conduct
-    * Follow the honor code on all submitted work
-    * Come prepared to class and lab sessions
-    * Pay attention to the lecturer or presenter
     * Show respect to the instructor through paying attention during class and participating during class
->>>>>>> 295bbc88037f685c71991d6ab162a52bc4c07138
 
 * Unacceptable Conduct (U):
   * Members shall not
