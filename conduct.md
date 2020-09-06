@@ -61,7 +61,7 @@ this rule that take into account emergencies and illnesses.
   * Members shall not
     * Miss three consecutive days without a valid excuse
     * Arrive to a class more than fifteen minutes late without a valid excuse
-    * Leave class early without an excuse
+    * Leave class early without a valid excuse
 
 ### Deadlines
 
