@@ -39,7 +39,7 @@ Allegheny's honor code for all submitted work.
     * Prevent peers from voicing their opinions and questions
     * Violate any part of this Code of Conduct
     * Violate the Allegheny honor code in regards to all submitted work
-    * Navigate to other websites or programs not related to class materials
+    * Navigate to other websites or programs unrelated to class materials
     * Directly copy another peer's work without crediting them
 
 ### Attendance
@@ -56,11 +56,12 @@ this rule that take into account emergencies and illnesses.
     * Arrive to class in a timely manner
     * Regularly attend class sessions
     * Attend outside sessions with group members, if needed, for group projects
+    * Regularly and actively contribute ideas, and knowledges to the group
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Miss three consecutive days without a valid excuse
-    * Not arrive to a class more than fifteen minutes without a valid excuse
+    * Arrive to a class more than fifteen minutes late without a valid excuse
     * Leave class early without an excuse
 
 ### Deadlines
@@ -70,15 +71,19 @@ course website and on Slack. Exceptions should be made for emergencies and illne
 
 * Acceptable Conduct (A):
   * Members shall
-    * Turn in work before a due date
-    * Watch the course website and Slack for changes to due dates
-    * :heavy_exclamation_mark: TODO: add items in the A category for deadlines
+
+    * Turn in work in a timely fashion determined by the course instructor or the team.
+    * Set up smaller progression deadlines to ensure that the team is on schedule.
+    * Communicate with team members when assigned tasks are completed.
+    * Work together to ensure that submitted work is free of errors.
+    * Watch the course website and Slack workspace for changes to due dates.
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Turn in their work after a due date
+    * Procrastinate work within a group causing late submissions of assignments.
+    * Submit assignments past the due date.
+    * Neglect to inform group members of completion progress.
     * Turn in their work through the incorrect medium.
-    * :heavy_exclamation_mark: TODO: add items in the U category for deadlines
 
 ### Communication
 
@@ -91,6 +96,7 @@ watch and participate in Slack, Zoom, and email communications.
     * Ask questions if they are unsure of what they need to do or how to do it
     * Listen to and consider ideas presented by others
     * Give proper notice about any absences to lab meetings or changes they will make to the project itself
+    * Always use appropriate languages when communicating with instructor and peers
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -284,5 +290,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova
+Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Mai Nguyen Dac
 :heavy_exclamation_mark: TODO: Add your name
