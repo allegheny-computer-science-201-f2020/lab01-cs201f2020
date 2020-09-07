@@ -55,7 +55,9 @@ this rule that take into account emergencies and illnesses.
   * Members shall
     * Arrive to class in a timely manner
     * Regularly attend class sessions
+    * Regularly and actively contribute ideas, and knowledges to the group
     * Attend outside sessions with group members for group projects, if needed
+    * Notify group members if must miss class, lab, or group meetings where are working on project
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -94,6 +96,8 @@ watch and participate in Slack, Zoom, and email communications.
   * Members shall
     * Ask questions if they are unsure of what they need to do or how to do it
     * Listen to and consider ideas presented by others
+    * Give proper notice about any absences to lab meetings or changes they will make to the project itself
+    * Always use appropriate language when communicating with instructor and peers
     * Give proper notice about any absences to lab meetings
     * Give proper notice about intended changes to the project, itself
 
@@ -287,5 +291,6 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz
+Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Mai Nguyen Dac, Jordan Byrne
+Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt
 :heavy_exclamation_mark: TODO: Add your name
