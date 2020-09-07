@@ -39,7 +39,7 @@ Allegheny's honor code for all submitted work.
     * Prevent peers from voicing their opinions and questions
     * Violate any part of this Code of Conduct
     * Violate the Allegheny honor code in regards to all submitted work
-    * Navigate to other websites or programs not related to class materials
+    * Navigate to other websites or programs unrelated to class materials
     * Directly copy another peer's work without crediting them
 
 ### Attendance
@@ -70,15 +70,19 @@ course website and on Slack. Exceptions should be made for emergencies and illne
 
 * Acceptable Conduct (A):
   * Members shall
-    * Turn in work before a due date
-    * Watch the course website and Slack for changes to due dates
-    * :heavy_exclamation_mark: TODO: add items in the A category for deadlines
+
+    * Turn in work in a timely fashion determined by the course instructor or the team.
+    * Set up smaller progression deadlines to ensure that the team is on schedule.
+    * Communicate with team members when assigned tasks are completed.
+    * Work together to ensure that submitted work is free of errors.
+    * Watch the course website and Slack workspace for changes to due dates.
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Turn in their work after a due date
+    * Procrastinate work within a group causing late submissions of assignments.
+    * Submit assignments past the due date.
+    * Neglect to inform group members of completion progress.
     * Turn in their work through the incorrect medium.
-    * :heavy_exclamation_mark: TODO: add items in the U category for deadlines
 
 ### Communication
 
@@ -283,8 +287,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova
-Madelyn Kapfhammer
-Hannah Schultz
-Elisia Wright
+Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz
 :heavy_exclamation_mark: TODO: Add your name
