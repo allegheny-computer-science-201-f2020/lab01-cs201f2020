@@ -41,6 +41,7 @@ Allegheny's honor code for all submitted work.
     * Violate the Allegheny honor code in regards to all submitted work
     * Navigate to other websites or programs unrelated to class materials
     * Directly copy another peer's work without crediting them
+    * Inhibit or otherwise hinder the progress of any peer's work
 
 ### Attendance
 
@@ -64,6 +65,7 @@ this rule that take into account emergencies and illnesses.
     * Miss three consecutive days without a valid excuse
     * Arrive to a class more than fifteen minutes late without a valid excuse
     * Leave class early without a valid excuse
+    * Miss a scheduled group meeting unless ample notice is given to group members
 
 ### Deadlines
 
@@ -77,6 +79,7 @@ course website and on Slack. Exceptions should be made for emergencies and illne
     * Communicate with team members when assigned tasks are completed.
     * Work together to ensure that submitted work is free of errors.
     * Watch the course website and Slack workspace for changes to due dates.
+    * Give proper notice with honest reasons if needing a deadline extensions
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -84,6 +87,8 @@ course website and on Slack. Exceptions should be made for emergencies and illne
     * Submit assignments past the due date.
     * Neglect to inform group members of completion progress.
     * Turn in work through the incorrect medium.
+    * Neglect to do work assigned to them
+    * Make up reasons to avoid submitting work
 
 ### Communication
 
@@ -97,7 +102,8 @@ watch and participate in Slack, Zoom, and email communications.
     * Listen to and consider ideas presented by others
     * Always use appropriate language when communicating with instructor and peers
     * Give proper notice about any absences to lab meetings
-    * Give proper notice about intended changes to the projects
+    * Give proper notice about intended changes to the project
+    * Always lead the conversations in a positive manner
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -109,6 +115,7 @@ watch and participate in Slack, Zoom, and email communications.
     opinions and development in an unprofessional manner
     * Refuse to complete work on sections of the project that they had said they
     would work on prior
+    * Using inappropriate set of language in conversations with instructors and peers.
 
 ## Team Work
 
@@ -135,14 +142,14 @@ truly be all there.
     * Approach issues and team members with professionalism
     * Demonstrate continuous engagement with tasks
     * Be open minded
-    * Raise a disagreeing opinion in a respectful manner
+    * Raise a differing opinion in a respectful manner
     * Ensure that groups are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
     * Be understanding and compassionate regarding the various learning/living situations a student may face this semester
     * Ask questions when necessary using an * in the Zoom chat or raising your hand if in the classroom
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Demonstrate disrespect for team members
+    * Show disrespect for team members
     * Have an inappropriate professional boundary with team members
     * Show poor participation and attitude to their lab delegated tasks
     * Demonstrate patterns of poor communication or little effort for
@@ -152,6 +159,9 @@ truly be all there.
     * Avoid contributing to lab discussions
     * Demonstrate disruptive behavior that inhibits others from participating in discussions
     * Discriminate against team members based on race, class year, gender, or level of knowledge
+    * Abuse the notification / ping system in Slack and expect responses at unreasonable
+    hours of the day, or otherwise expect involvement from members that are not
+    available
 
 ### Decisions
 
@@ -184,6 +194,9 @@ how long a decision will take to implement.
     * Make decisions that would affect another team without first notifying them
     * Refuse to actively participate in group discussions to reach an optimal final decision
     * Refuse to use the issue tracker to discuss a disagreement
+    * Interfere in matters or responsibilities that they were not designated to
+      handle
+    * Deploy any kind of decision that against codes of ethic
 
 ### Postmortems
 
@@ -196,15 +209,12 @@ provide great insight in how to improve in future projects.
   * Members shall
     * Work as a team to create a postmortem plan to review and fix sections of the project
     * Develop different approaches to solve issues with the project
-    * Participate in the discussions in a respectful and courteous manner
-    while adhering to the communications section of the Code of Conduct
     * Provide constructive feedback and propose solutions for issues faced
     * Receive feedback and discuss how it could be used to improve future projects and assignments
     * Communicate and think practically/realistically on ways to improve the program based on efficiency and the skills we have learned throughout the course and at Allegheny
     * Account for situational factors that may come up with remote work when giving feedback and discussing solutions
     * Keep postmortems blameless to increase the accountability in a group and to prevent team members from being blamed
     * Respect that all decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members
-
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -213,10 +223,9 @@ provide great insight in how to improve in future projects.
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed
     * Make fun of other people’s solutions
     * Take all credit for all of the team members work that the individual did not do and blame others for everything wrong
-    * Target a specific team member when discussing a post mortem or the remaining bugs in a laboratory or project assignment
+    * Target a specific team member when discussing a postmortem or the remaining bugs in a laboratory or project assignment
     * Decide what to do after a postmortem that the majority of the project or laboratory group doesn't agree with
     * Claim that one subjective way of achieving a solution is the only correct way of working towards it
-
 
 ### Conflicts
 
@@ -225,7 +234,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
 * Acceptable Conduct (A):
   * Members shall
     * Resolve conflicts before they become severe by engaging in respectful conversations
-    * Communicate with project managers if conflicts become severe between class members, who will work to resolve any issues
+    * Communicate with project managers, if conflicts become severe between class members, who will work to resolve any issues
     * Project managers, technical leaders and the course instructor are
     responsible for resolving any issues by proposing solutions to reach a
     compromise between class members involved
@@ -238,7 +247,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Encourage or engage in conflicts that undermine the code of Conduct
+    * Encourage or engage in conflicts that undermine the Code of Conduct
     * Escalate existing conflicts that jeopardize the group project
     * Disregard or refuse to resolve an existing conflict that has been brought to their attention
     * Harass others with discriminatory jokes and languages
@@ -246,11 +255,10 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Hide conflicts within a group to prevent interventions to mitigate problems
     * Physically injure others or try or attack members in order to resolve conflicts
 
-
 ## Infractions
 
 An infraction occurs when class member(s) violate the agreed
-rules present in the code of C. Any action
+rules present in the Code of Conduct. Any action
 that is considered "Unacceptable" will cause an
 infraction. Class member(s) should avoid infractions since the accumulation of
 them would cause penalties and hinder the progress of the project.
@@ -259,9 +267,9 @@ The severity of the infraction is determined by the number of
 previous infractions. Higher number of past infractions would cause a higher
 level infraction and thus a more severe penalty.
 
-This guideline for infractions is separate from the Allegheny College Honor code
+This guideline for infractions is separate from the Allegheny College Honor Code
 guidelines. While the Honor Code involves all students in Allegheny College and
-is enforced by the college's Honor Committee, this code of C only
+is enforced by the college's Honor Committee, this Code of Conduct only
 includes members of the Data Abstraction class for the Fall semester
 of 2020.
 
@@ -282,7 +290,7 @@ out of class office meeting to try to resolve issue and why it is still happenin
 
 
 Class member(s) are encouraged to report any infractions in order to ensure
-a safe, inclusive and collegial environment.
+a safe, inclusive and collegiate environment.
 
 Class member(s) may appeal any infraction to the instructor of the class.
 Any decision made by the instructor for the given infraction(s) will be final.
@@ -290,5 +298,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Mai Nguyen Dac, Jordan Byrne, Bailey Matrascia
-Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle
-:heavy_exclamation_mark: TODO: Add your name
+Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle, Pedro Carmo, Tyler Pham, Ramon Guzman, Natnael Kahesay
+Caden Koscinski, Wesley Long, Christopher Stephenson
