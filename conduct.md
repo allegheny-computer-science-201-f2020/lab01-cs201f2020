@@ -228,6 +228,7 @@ provide great insight in how to improve in future projects.
     * Claim that one subjective way of achieving a solution is the only correct way of working towards it
 
 ### Conflicts
+
 It is inevitable that conflicts will arise when working as a large group. It is essential, however, to resolve these conflicts in a professional manner while keeping in mind the concerns of everyone involved.
 
 * Acceptable Conduct (A):
@@ -255,6 +256,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Physically injure others or try or attack members in order to resolve conflicts
 
 ## Infractions
+
 An infraction occurs when class member(s) violate the agreed
 rules present in the code of C. Any action
 that is considered "Unacceptable" will cause an
