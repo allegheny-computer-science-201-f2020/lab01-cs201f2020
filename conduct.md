@@ -261,7 +261,7 @@ The severity of the infraction is determined by the number of
 previous infractions. Higher number of past infractions would cause a higher
 level infraction and thus a more severe penalty.
 
-This guideline for infractions is separate from the Allegheny College Honor code
+This guideline for infractions is separate from the Allegheny College Honor Code
 guidelines. While the Honor Code involves all students in Allegheny College and
 is enforced by the college's Honor Committee, this Code of Conduct only
 includes members of the Data Abstraction class for the Fall semester
