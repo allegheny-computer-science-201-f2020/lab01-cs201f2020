@@ -203,8 +203,6 @@ provide great insight in how to improve in future projects.
   * Members shall
     * Work as a team to create a postmortem plan to review and fix sections of the project
     * Develop different approaches to solve issues with the project
-    * Participate in the discussions in a respectful and courteous manner
-    while adhering to the communications section of the Code of Conduct
     * Provide constructive feedback and propose solutions for issues faced
     * Receive feedback and discuss how it could be used to improve future projects and assignments
     * Communicate and think practically/realistically on ways to improve the program based on efficiency and the skills we have learned throughout the course and at Allegheny
