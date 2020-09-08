@@ -286,6 +286,8 @@ of 2020.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
 
+  * Student is required to communicate weekly with the professor to discuss continued participation in class.
+
 Class member(s) are encouraged to report any infractions in order to ensure
 a safe, inclusive and collegial environment.
 
@@ -294,5 +296,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Alton Caylor, Maximillian Mandel, Davis Bayne
+Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Alton Caylor, Maximillian Mandel, Davis Bayne, Garrison Vanzin,
 :heavy_exclamation_mark: TODO: Add your name
