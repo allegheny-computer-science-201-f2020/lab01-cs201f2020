@@ -217,7 +217,7 @@ provide great insight in how to improve in future projects.
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed
     * Make fun of other people’s solutions
     * Take all credit for all of the team members work that the individual did not do and blame others for everything wrong
-    * Target a specific team member when discussing a post mortem or the remaining bugs in a laboratory or project assignment
+    * Target a specific team member when discussing a postmortem or the remaining bugs in a laboratory or project assignment
     * Decide what to do after a postmortem that the majority of the project or laboratory group doesn't agree with
     * Claim that one subjective way of achieving a solution is the only correct way of working towards it
 
@@ -283,7 +283,7 @@ out of class office meeting to try to resolve issue and why it is still happenin
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
 
 Class member(s) are encouraged to report any infractions in order to ensure
-a safe, inclusive and collegial environment.
+a safe, inclusive and collegiate environment.
 
 Class member(s) may appeal any infraction to the instructor of the class.
 Any decision made by the instructor for the given infraction(s) will be final.
