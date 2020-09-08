@@ -84,6 +84,7 @@ course website and on Slack. Exceptions should be made for emergencies and illne
     * Submit assignments past the due date.
     * Neglect to inform group members of completion progress.
     * Turn in work through the incorrect medium.
+    * Neglect to do work assigned to them
 
 ### Communication
 
@@ -295,5 +296,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Mai Nguyen Dac, Jordan Byrne
 Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle
-Caden Koscinski
+Caden Koscinski, Wesley Long
 :heavy_exclamation_mark: TODO: Add your name
