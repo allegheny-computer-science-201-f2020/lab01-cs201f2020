@@ -90,9 +90,9 @@ Since the nature of this course has changed, communication is more vital than ev
 * Unacceptable Conduct (U):
   * Members shall not
     * Leave messages from the instructor or group partners (if applicable) unanswered for unacceptable lengths of time, thus disrupting effective collaboration and productivity.
-      * This extends to Email, Slack, Github, and any other mediums of communication.
+      * This extends to email, Slack, GitHub, and any other mediums of communication.
     * Disrespect the work and opinions of others or otherwise provide deconstructive criticism
-    * Use Github threads, Slack channels, and any other platforms for discussing opinions and development in an unprofessional manner
+    * Use GitHub threads, Slack channels, and any other platforms for discussing opinions and development in an unprofessional manner
     * Use any form of communication to speak negatively about your peers or the instructor
 
 ## Team Work
@@ -144,7 +144,7 @@ The majority of individuals in a team should agree on a given decision before th
     * Defer to the Professor or student technical leaders when unsure about tasks or implementation
     * Distribute tasks to all team members evenly
     * Make new decisions when a previous decision cannot be implemented
-    * Use Github issue tracker when a choice is disputed and let team members share their opinion
+    * Use GitHub issue tracker when a choice is disputed and let team members share their opinion
     * Use efficient communication within and outside of teams
     * Come to a consensus about decisions
 
@@ -168,20 +168,32 @@ insight in how to improve in future projects.
   * Members shall
     * Work as a team to create a postmortem plan to review and fix sections of
     the project
-    * Come up with different approaches to solve issues with the project
+    * Develop different approaches to solve issues with the project
     * Participate in the discussions in a respectful and courteous manner
-    while adhering to the communications section of the code of conduct
+    while adhering to the Communications section of the Code of Conduct
     * Provide constructive feedback and propose solutions for issues faced
     * Receive feedback and discuss how it could be used to improve
     future projects and assignments
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the doing postmortems as a team
+    * Communicate and think practically on how to improve the program with efficiently with our computational skills
+    * Account for situational factors that may come up with remote work when giving
+    feedback and discussing solutions
+    * Keep postmortems blameless to increase accountability in a group and to
+    prevent individual team members from being blamed
+    * Respect that all decisions postmortem should be arrived through a democratic
+    process based upon the majority support from the group
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Insult others while presenting criticism
     * Blame other members for any issues with the final product
-    * Refuse to collaborate in fixing remaining issues
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the doing postmortems as a team
+    * Refuse to collaborate in fixing remaining issues before completing a project
+    or lab
+    * Make non-objective criticisms toward others' solutions
+    * Take credit for other's work
+    * Target individuals when discussing post mortem or remaining bugs in an
+    assignment
+    * Make decisions that the majority of the team disagree with postmortem
+    * Use one-track minded thinking towards achieving solutions
 
 ### Conflicts
 
