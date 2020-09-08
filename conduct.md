@@ -245,7 +245,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Hold grudges against others for previous conflicts
     * Hide conflicts within a group to prevent interventions to mitigate problems
     * Physically injure others or try or attack members in order to resolve conflicts
-    
+
 
 ## Infractions
 
@@ -287,6 +287,6 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Mai Nguyen Dac, Jordan Byrne
+Mai Nguyen Dac, Jordan Byrne, Bailey Matrascia
 Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle
 :heavy_exclamation_mark: TODO: Add your name
