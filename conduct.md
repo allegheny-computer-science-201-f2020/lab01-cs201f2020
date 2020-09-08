@@ -41,6 +41,7 @@ Allegheny's honor code for all submitted work.
     * Violate the Allegheny honor code in regards to all submitted work
     * Navigate to other websites or programs unrelated to class materials
     * Directly copy another peer's work without crediting them
+    * Inhibit or otherwise hinder the progress of any peer's work
 
 ### Attendance
 
@@ -238,7 +239,6 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Report conflict involving violence to the instructors and Dean of Students
     * Be considerate and listen to everyone in the group carefully before determining a suitable solution for the issue
     * Politely disagree with other students ideas but not in a way that harms the group or individual students
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -249,7 +249,6 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Hold grudges against others for previous conflicts
     * Hide conflicts within a group to prevent interventions to mitigate problems
     * Physically injure others or try or attack members in order to resolve conflicts
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
 
 ## Infractions
 
