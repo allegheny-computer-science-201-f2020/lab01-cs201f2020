@@ -277,15 +277,15 @@ of 2020.
 
 * Level I: Any violation of a Code of Conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
 
-* Warning to the student not to repeat their behavior
+  * Warning to the student not to repeat their behavior
 
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
 
-* out of class office meeting to try to resolve issue and why it is still happening including all people involved
+  * out of class office meeting to try to resolve issue and why it is still happening including all people involved
 
 * Level III A Level III infraction will be given to an individual who has accumulated five Level I infractions.
 
-* potential grade deduction to project
+  * potential grade deduction to project
 
 Class member(s) are encouraged to report any infractions in order to ensure
 a safe, inclusive and collegiate environment.
