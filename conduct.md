@@ -203,7 +203,7 @@ provide great insight in how to improve in future projects.
     * Communicate and think practically/realistically on ways to improve the program based on efficiency and the skills we have learned throughout the course and at Allegheny
     * Account for situational factors that may come up with remote work when giving feedback and discussing solutions
     * Keep postmortems blameless to increase the accountability in a group and to prevent team members from being blamed
-    * All decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members
+    * Respect that all decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
 
 * Unacceptable Conduct (U):
@@ -235,7 +235,6 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Report conflict involving violence to the instructors and Dean of Students
     * Be considerate and listen to everyone in the group carefully before determining a suitable solution for the issue
     * Politely disagree with other students ideas but not in a way that harms the group or individual students
-    * Not physically injure others or try or attack members in order to resolve conflicts
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
 
 * Unacceptable Conduct (U):
@@ -246,6 +245,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Harass others with discriminatory jokes and languages
     * Hold grudges against others for previous conflicts
     * Hide conflicts within a group to prevent interventions to mitigate problems
+    * Physically injure others or try or attack members in order to resolve conflicts
     * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
 
 ## Infractions
