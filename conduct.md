@@ -60,30 +60,32 @@
 
 * Acceptable Conduct (A):
   * Members shall
-    * Turn in work in a timely fashion determined by the course instructor or the team.
-    * Set up smaller progression deadlines to ensure that the team is on schedule.
-    * Communicate with team members when assigned tasks are completed.
-    * Collaborate to ensure that submissions are free of errors.
-    * Watch the course website and Slack workspace for changes to due dates.
+    * :heavy_exclamation_mark: TODO: add items in the A category for deadlines
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Procrastinate work within a group causing late submissions of assignments.
-    * Submit assignments past the deadline.
-    * Neglect to inform group members of completion progress.
-    * Submit work to the incorrect medium.
+    * :heavy_exclamation_mark: TODO: add items in the U category for deadlines
 
 ### Communication
 
+Since the nature of this course has changed, communication is more vital than ever for students during these unprecedented times. Students are expected to stay in regular communication with the professor and each other & watch and participate through Slack, Zoom, and email communications.
+
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for communication
-    in class (in-person and online), lab and practical sessions, and during team meetings
+    * Ask clarifying questions if you are confused
+    * Listen to and consider ideas presented by others
+    * Always use appropriate language when communicating with instructor and peers
+    * Give proper notice about any absences to lab meetings
+    * Give proper notice about intended changes to the projects
+    * Give advanced notice, if possible, about any absences to class/lab/group sessions
 
-* Unacceptable Conduct (U):
-  * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for communication
-    in class (in-person and online), lab and practical sessions, and during team meetings
+  * Unacceptable Conduct (U):
+    * Members shall not
+      * Leave messages from the instructor or group partners (if applicable) unanswered for unacceptable lengths of time, thus disrupting effective collaboration and productivity.
+        * This extends to Email, Slack, Github, and any other mediums of communication.
+      * Disrespect the work and opinions of others or otherwise provide deconstructive criticism
+      * Use Github threads, Slack channels, and any other platforms for discussing opinions and development in an unprofessional manner
+      * Use any form of communication to speak negatively about your peers or the instructor
 
 ## Team Work
 
@@ -141,7 +143,7 @@ how long a decision will take to implement.
     * Defer to the Professor or student technical leaders when unsure
     * Distribute tasks to all team members
     * A new decision should be made when a previous decision cannot be implemented
-    * When a choice is disputed, use GitHub issue tracker and let team members
+    * When a choice is disputed, use Github issue tracker and let team members
       share their opinion
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
 
