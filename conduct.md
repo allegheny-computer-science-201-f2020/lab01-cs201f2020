@@ -269,7 +269,7 @@ of 2020.
 * *Infractions shall be imposed at three different levels of severity:*
 
 * Level I: Any violation of a Code of Conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
- * Warning to the student not to repeat their behavior
+* Warning to the student not to repeat their behavior
 
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
 
