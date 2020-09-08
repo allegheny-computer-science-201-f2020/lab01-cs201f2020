@@ -120,7 +120,6 @@ truly be all there.
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the participation in a team
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -131,38 +130,32 @@ truly be all there.
     collaboration in lab and Slack
     * Disrupt working teams' effectiveness by lack of collaboration
     * Attempt to dominate a lab discussions
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the participation in a team
 
 ### Decisions
 
-The majority of individuals in a team should agree on a given decision before the
-project is implemented. It should be made with supporting evidence that shows
-that the decision is productive. When unsure about making a decision
-it is a good idea to defer to a technical leader or the professor. One should
-reach out to other teams whom the choice will influence. Teams will determine
-how long a decision will take to implement.
+The majority of individuals in a team should agree on a given decision before the project is implemented. It should be made with supporting evidence that shows that the decision is productive. When unsure about making a decision it is a good idea to defer to a technical leader or the professor for further assistance. One should reach out to other teams whom the choice will influence. Teams will determine how long a decision will take to implement.
 
 * Acceptable Conduct (A):
   * Members shall
-    * Take into account everyone's input in the decision making process
-    * Stay flexible and be willing to change if it would be productive
+    * Take into account everyone's input in the decision-making process
+    * Stay flexible and be willing to change, if productive
     * Report errors or bugs to the appropriate team members
-    * Record what choice was made and when it was implemented
-    * Defer to the Professor or student technical leaders when unsure
-    * Distribute tasks to all team members
-    * A new decision should be made when a previous decision cannot be implemented
-    * When a choice is disputed, use Github issue tracker and let team members
-      share their opinion
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
+    * Record what choice about design was made and when it was implemented
+    * Defer to the Professor or student technical leaders when unsure about tasks or implementation
+    * Distribute tasks to all team members evenly
+    * Make new decisions when a previous decision cannot be implemented
+    * Use Github issue tracker when a choice is disputed and let team members share their opinion
+    * Use efficient communication within and outside of teams
+    * Come to a consensus about decisions
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Let an individual team member or a project manager make major decisions
+    * Let an individual team member or a project manager make major decisions without consulting other team members first.
     * Make decisions without finding evidence showing that it would likely be beneficial
-    * Directly contradict the decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
+    * Refuse to actively participate in group discussions to reach an optimal final decision
+    * Refuse to use the issue tracker to discuss a disagreement
 
 ### Postmortems
 
