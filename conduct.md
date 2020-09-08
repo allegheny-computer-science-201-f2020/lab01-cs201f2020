@@ -297,5 +297,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Mai Nguyen Dac, Jordan Byrne
 Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle
-Caden Koscinski, Wesley Long
+Caden Koscinski, Wesley Long, Christopher Stephenson
 :heavy_exclamation_mark: TODO: Add your name
