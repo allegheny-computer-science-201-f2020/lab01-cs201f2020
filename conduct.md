@@ -79,13 +79,13 @@ Since the nature of this course has changed, communication is more vital than ev
     * Give proper notice about intended changes to the projects
     * Give advanced notice, if possible, about any absences to class/lab/group sessions
 
-  * Unacceptable Conduct (U):
-    * Members shall not
-      * Leave messages from the instructor or group partners (if applicable) unanswered for unacceptable lengths of time, thus disrupting effective collaboration and productivity.
-        * This extends to Email, Slack, Github, and any other mediums of communication.
-      * Disrespect the work and opinions of others or otherwise provide deconstructive criticism
-      * Use Github threads, Slack channels, and any other platforms for discussing opinions and development in an unprofessional manner
-      * Use any form of communication to speak negatively about your peers or the instructor
+* Unacceptable Conduct (U):
+  * Members shall not
+    * Leave messages from the instructor or group partners (if applicable) unanswered for unacceptable lengths of time, thus disrupting effective collaboration and productivity.
+      * This extends to Email, Slack, Github, and any other mediums of communication.
+    * Disrespect the work and opinions of others or otherwise provide deconstructive criticism
+    * Use Github threads, Slack channels, and any other platforms for discussing opinions and development in an unprofessional manner
+    * Use any form of communication to speak negatively about your peers or the instructor
 
 ## Team Work
 
