@@ -280,6 +280,7 @@ out of class office meeting to try to resolve issue and why it is still happenin
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
 
+
 Class member(s) are encouraged to report any infractions in order to ensure
 a safe, inclusive and collegial environment.
 
