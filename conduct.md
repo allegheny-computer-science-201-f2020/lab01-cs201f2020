@@ -205,7 +205,6 @@ provide great insight in how to improve in future projects.
     * Keep postmortems blameless to increase the accountability in a group and to prevent team members from being blamed
     * Respect that all decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members
 
-
 * Unacceptable Conduct (U):
   * Members shall not
     * Insult others while presenting criticism
@@ -216,7 +215,6 @@ provide great insight in how to improve in future projects.
     * Target a specific team member when discussing a post mortem or the remaining bugs in a laboratory or project assignment
     * Decide what to do after a postmortem that the majority of the project or laboratory group doesn't agree with
     * Claim that one subjective way of achieving a solution is the only correct way of working towards it
-
 
 ### Conflicts
 
@@ -245,7 +243,6 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Hold grudges against others for previous conflicts
     * Hide conflicts within a group to prevent interventions to mitigate problems
     * Physically injure others or try or attack members in order to resolve conflicts
-
 
 ## Infractions
 
