@@ -169,11 +169,11 @@ how long a decision will take to implement.
     * Report errors or bugs to the appropriate team members
     * Record what choice about design was made and when it was implemented
     * Defer to the Professor or student technical leaders when unsure about tasks or implementation
-    * Distribute tasks to all team members
+    * Distribute tasks to all team members evenly
     * Make new decisions when a previous decision cannot be implemented
-    * When a choice is disputed, use Github issue tracker and let team members
+    * Use Github issue tracker when a choice is disputed and let team members
       share their opinion
-    * Efficient communication within and outside of teams
+    * Use efficient communication within and outside of teams
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -182,7 +182,7 @@ how long a decision will take to implement.
     * Directly contradict a team decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
-    * Not actively participating in group discussions to reach an optimal final decision
+    * Refuse to actively participate in group discussions to reach an optimal final decision
     * Refuse to use the issue tracker to discuss a disagreement
 
 ### Postmortems
