@@ -216,7 +216,6 @@ professional manner while keeping in mind the concerns of everyone involved.
     should be resolved
     * Be respectful and open-minded with everybody in the team when
     encountering a conflict
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for resolving conflicts as a team
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -225,7 +224,7 @@ professional manner while keeping in mind the concerns of everyone involved.
     * Escalate existing conflicts that jeopardize the group project
     * Disregard or refuse to resolve an existing conflict
     that has been brought to their attention
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the resolving conflicts as a team
+    * Start severe conflicts based on simple disagreements 
 
 ## Infractions
 
