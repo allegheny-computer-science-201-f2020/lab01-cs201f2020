@@ -276,6 +276,10 @@ of 2020.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
 
+  *Student must formally apologize to the affected party.
+  
+  *Student is required to communicate with the professor to discuss continued participation in class.
+
 * Level III A Level III infraction will be given to an individual who has accumulated five Level I infractions.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
