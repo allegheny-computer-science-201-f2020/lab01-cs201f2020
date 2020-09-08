@@ -63,7 +63,7 @@ this rule that take into account emergencies and illnesses.
   * Members shall not
     * Miss three consecutive days without a valid excuse
     * Arrive to a class more than fifteen minutes late without a valid excuse
-    * Leave class early without an excuse
+    * Leave class early without a valid excuse
 
 ### Deadlines
 
@@ -72,7 +72,6 @@ course website and on Slack. Exceptions should be made for emergencies and illne
 
 * Acceptable Conduct (A):
   * Members shall
-
     * Turn in work in a timely fashion determined by the course instructor or the team.
     * Set up smaller progression deadlines to ensure that the team is on schedule.
     * Communicate with team members when assigned tasks are completed.
@@ -84,7 +83,7 @@ course website and on Slack. Exceptions should be made for emergencies and illne
     * Procrastinate work within a group causing late submissions of assignments.
     * Submit assignments past the due date.
     * Neglect to inform group members of completion progress.
-    * Turn in their work through the incorrect medium.
+    * Turn in work through the incorrect medium.
 
 ### Communication
 
@@ -96,10 +95,9 @@ watch and participate in Slack, Zoom, and email communications.
   * Members shall
     * Ask questions if they are unsure of what they need to do or how to do it
     * Listen to and consider ideas presented by others
-    * Give proper notice about any absences to lab meetings or changes they will make to the project itself
     * Always use appropriate language when communicating with instructor and peers
     * Give proper notice about any absences to lab meetings
-    * Give proper notice about intended changes to the project, itself
+    * Give proper notice about intended changes to the projects
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -138,7 +136,7 @@ truly be all there.
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
-    * Ensure that they are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
+    * Ensure that groups are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
     * Be understanding and compassionate regarding the various learning/living situations a student may face this semester
     * Ask questions when necessary using an * in the Zoom chat or raising your hand if in the classroom
 
@@ -150,7 +148,7 @@ truly be all there.
     * Demonstrate patterns of poor communication or little effort for
     collaboration in lab and Slack
     * Disrupt working teams' effectiveness by lack of collaboration
-    * Attempt to dominate a lab discussions
+    * Attempt to dominate lab discussions
     * Avoid contributing to lab discussions
     * Demonstrate disruptive behavior that inhibits others from participating in discussions
     * Discriminate against team members based on race, class year, gender, or level of knowledge
@@ -171,11 +169,11 @@ how long a decision will take to implement.
     * Report errors or bugs to the appropriate team members
     * Record what choice about design was made and when it was implemented
     * Defer to the Professor or student technical leaders when unsure about tasks or implementation
-    * Distribute tasks to all team members
+    * Distribute tasks to all team members evenly
     * Make new decisions when a previous decision cannot be implemented
-    * When a choice is disputed, use Github issue tracker and let team members
+    * Use Github issue tracker when a choice is disputed and let team members
       share their opinion
-    * Efficient communication within and outside of teams
+    * Use efficient communication within and outside of teams
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -184,7 +182,7 @@ how long a decision will take to implement.
     * Directly contradict a team decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
-    * Not actively participating in group discussions to reach an optimal final decision
+    * Refuse to actively participate in group discussions to reach an optimal final decision
     * Refuse to use the issue tracker to discuss a disagreement
 
 ### Postmortems
@@ -205,8 +203,8 @@ provide great insight in how to improve in future projects.
     * Communicate and think practically/realistically on ways to improve the program based on efficiency and the skills we have learned throughout the course and at Allegheny
     * Account for situational factors that may come up with remote work when giving feedback and discussing solutions
     * Keep postmortems blameless to increase the accountability in a group and to prevent team members from being blamed
-    * All decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
+    * Respect that all decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members
+
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -218,7 +216,7 @@ provide great insight in how to improve in future projects.
     * Target a specific team member when discussing a post mortem or the remaining bugs in a laboratory or project assignment
     * Decide what to do after a postmortem that the majority of the project or laboratory group doesn't agree with
     * Claim that one subjective way of achieving a solution is the only correct way of working towards it
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
+
 
 ### Conflicts
 
@@ -237,8 +235,6 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Report conflict involving violence to the instructors and Dean of Students
     * Be considerate and listen to everyone in the group carefully before determining a suitable solution for the issue
     * Politely disagree with other students ideas but not in a way that harms the group or individual students
-    * Not physically injure others or try or attack members in order to resolve conflicts
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -248,7 +244,8 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Harass others with discriminatory jokes and languages
     * Hold grudges against others for previous conflicts
     * Hide conflicts within a group to prevent interventions to mitigate problems
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
+    * Physically injure others or try or attack members in order to resolve conflicts
+
 
 ## Infractions
 
@@ -272,13 +269,12 @@ of 2020.
 
 * Level I: Any violation of a Code of Conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
 
-:heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
-
 * Warning to the student not to repeat their behavior
 
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
+out of class office meeting to try to resolve issue and why it is still happening including all people involved
 
 * Level III A Level III infraction will be given to an individual who has accumulated five Level I infractions.
 
@@ -292,6 +288,6 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Mai Nguyen Dac, Jordan Byrne
-Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tyler Pham, Ramon Guzman
-:heavy_exclamation_mark: TODO: Add your name
+Mai Nguyen Dac, Jordan Byrne, Bailey Matrascia
+Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle, Pedro Carmo, Tyler Pham, Ramon Guzman, Natnael Kahesay
+:heavy_exclamation_mark: TODO:
