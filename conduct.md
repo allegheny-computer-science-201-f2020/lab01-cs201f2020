@@ -289,5 +289,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Mai Nguyen Dac, Jordan Byrne, Bailey Matrascia
-Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle
+Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle, Pedro Carmo
 :heavy_exclamation_mark: TODO: Natnael Kahesay
