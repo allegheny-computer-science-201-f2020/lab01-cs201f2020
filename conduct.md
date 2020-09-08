@@ -41,6 +41,7 @@ Allegheny's honor code for all submitted work.
     * Violate the Allegheny honor code in regards to all submitted work
     * Navigate to other websites or programs unrelated to class materials
     * Directly copy another peer's work without crediting them
+    * Inhibit or otherwise hinder the progress of any peer's work
 
 ### Attendance
 
@@ -64,6 +65,7 @@ this rule that take into account emergencies and illnesses.
     * Miss three consecutive days without a valid excuse
     * Arrive to a class more than fifteen minutes late without a valid excuse
     * Leave class early without a valid excuse
+    * Miss a scheduled group meeting unless ample notice is given to group members
 
 ### Deadlines
 
@@ -84,7 +86,8 @@ course website and on Slack. Exceptions should be made for emergencies and illne
     * Procrastinate work within a group causing late submissions of assignments.
     * Submit assignments past the due date.
     * Neglect to inform group members of completion progress.
-    * Turn in their work through the incorrect medium.
+    * Turn in work through the incorrect medium.
+    * Neglect to do work assigned to them
     * Make up reasons to avoid submitting work
 
 ### Communication
@@ -155,7 +158,10 @@ truly be all there.
     * Attempt to dominate lab discussions
     * Avoid contributing to lab discussions
     * Demonstrate disruptive behavior that inhibits others from participating in discussions
-    * Discriminate against team members based on race, gender, or level of knowledge
+    * Discriminate against team members based on race, class year, gender, or level of knowledge
+    * Abuse the notification / ping system in Slack and expect responses at unreasonable
+    hours of the day, or otherwise expect involvement from members that are not
+    available
 
 ### Decisions
 
@@ -188,6 +194,8 @@ how long a decision will take to implement.
     * Make decisions that would affect another team without first notifying them
     * Refuse to actively participate in group discussions to reach an optimal final decision
     * Refuse to use the issue tracker to discuss a disagreement
+    * Interfere in matters or responsibilities that they were not designated to
+      handle
     * Deploy any kind of decision that against codes of ethic
 
 ### Postmortems
@@ -201,8 +209,6 @@ provide great insight in how to improve in future projects.
   * Members shall
     * Work as a team to create a postmortem plan to review and fix sections of the project
     * Develop different approaches to solve issues with the project
-    * Participate in the discussions in a respectful and courteous manner
-    while adhering to the communications section of the Code of Conduct
     * Provide constructive feedback and propose solutions for issues faced
     * Receive feedback and discuss how it could be used to improve future projects and assignments
     * Communicate and think practically/realistically on ways to improve the program based on efficiency and the skills we have learned throughout the course and at Allegheny
@@ -228,7 +234,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
 * Acceptable Conduct (A):
   * Members shall
     * Resolve conflicts before they become severe by engaging in respectful conversations
-    * Communicate with project managers if conflicts become severe between class members, who will work to resolve any issues
+    * Communicate with project managers, if conflicts become severe between class members, who will work to resolve any issues
     * Project managers, technical leaders and the course instructor are
     responsible for resolving any issues by proposing solutions to reach a
     compromise between class members involved
@@ -292,4 +298,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 Mai Nguyen Dac, Jordan Byrne, Bailey Matrascia
 Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle, Pedro Carmo, Tyler Pham, Ramon Guzman, Natnael Kahesay
-:heavy_exclamation_mark: TODO:
+Caden Koscinski, Wesley Long, Christopher Stephenson
