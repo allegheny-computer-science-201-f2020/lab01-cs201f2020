@@ -210,7 +210,6 @@ provide great insight in how to improve in future projects.
     * Keep postmortems blameless to increase the accountability in a group and to prevent team members from being blamed
     * Respect that all decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members
 
-
 * Unacceptable Conduct (U):
   * Members shall not
     * Insult others while presenting criticism
@@ -222,9 +221,7 @@ provide great insight in how to improve in future projects.
     * Decide what to do after a postmortem that the majority of the project or laboratory group doesn't agree with
     * Claim that one subjective way of achieving a solution is the only correct way of working towards it
 
-
 ### Conflicts
-
 It is inevitable that conflicts will arise when working as a large group. It is essential, however, to resolve these conflicts in a professional manner while keeping in mind the concerns of everyone involved.
 
 * Acceptable Conduct (A):
@@ -239,8 +236,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Be respectful and open-minded with everybody in the team when encountering a conflict
     * Report conflict involving violence to the instructors and Dean of Students
     * Be considerate and listen to everyone in the group carefully before determining a suitable solution for the issue
-    * Politely disagree with other students ideas but not in a way that harms the group or individual students
-  
+    * Politely disagree with other students ideas but not in a way that harms the group or individual students  
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -252,9 +248,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Hide conflicts within a group to prevent interventions to mitigate problems
     * Physically injure others or try or attack members in order to resolve conflicts
 
-
 ## Infractions
-
 An infraction occurs when class member(s) violate the agreed
 rules present in the code of C. Any action
 that is considered "Unacceptable" will cause an
