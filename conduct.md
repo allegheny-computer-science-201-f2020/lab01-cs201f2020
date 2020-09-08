@@ -79,6 +79,7 @@ course website and on Slack. Exceptions should be made for emergencies and illne
     * Communicate with team members when assigned tasks are completed.
     * Work together to ensure that submitted work is free of errors.
     * Watch the course website and Slack workspace for changes to due dates.
+    * Give proper notice with honest reasons if needing a deadline extensions
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -87,6 +88,7 @@ course website and on Slack. Exceptions should be made for emergencies and illne
     * Neglect to inform group members of completion progress.
     * Turn in work through the incorrect medium.
     * Neglect to do work assigned to them
+    * Make up reasons to avoid submitting work
 
 ### Communication
 
@@ -100,7 +102,8 @@ watch and participate in Slack, Zoom, and email communications.
     * Listen to and consider ideas presented by others
     * Always use appropriate language when communicating with instructor and peers
     * Give proper notice about any absences to lab meetings
-    * Give proper notice about intended changes to the projects
+    * Give proper notice about intended changes to the project
+    * Always lead the conversations in a positive manner
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -112,6 +115,7 @@ watch and participate in Slack, Zoom, and email communications.
     opinions and development in an unprofessional manner
     * Refuse to complete work on sections of the project that they had said they
     would work on prior
+    * Using inappropriate set of language in conversations with instructors and peers.
 
 ## Team Work
 
@@ -138,14 +142,14 @@ truly be all there.
     * Approach issues and team members with professionalism
     * Demonstrate continuous engagement with tasks
     * Be open minded
-    * Raise a disagreeing opinion in a respectful manner
+    * Raise a differing opinion in a respectful manner
     * Ensure that groups are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
     * Be understanding and compassionate regarding the various learning/living situations a student may face this semester
     * Ask questions when necessary using an * in the Zoom chat or raising your hand if in the classroom
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Demonstrate disrespect for team members
+    * Show disrespect for team members
     * Have an inappropriate professional boundary with team members
     * Show poor participation and attitude to their lab delegated tasks
     * Demonstrate patterns of poor communication or little effort for
@@ -191,7 +195,8 @@ how long a decision will take to implement.
     * Refuse to actively participate in group discussions to reach an optimal final decision
     * Refuse to use the issue tracker to discuss a disagreement
     * Interfere in matters or responsibilities that they were not designated to
-    handle
+      handle
+    * Deploy any kind of decision that against codes of ethic
 
 ### Postmortems
 
@@ -223,7 +228,6 @@ provide great insight in how to improve in future projects.
     * Claim that one subjective way of achieving a solution is the only correct way of working towards it
 
 ### Conflicts
-
 It is inevitable that conflicts will arise when working as a large group. It is essential, however, to resolve these conflicts in a professional manner while keeping in mind the concerns of everyone involved.
 
 * Acceptable Conduct (A):
@@ -251,7 +255,6 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Physically injure others or try or attack members in order to resolve conflicts
 
 ## Infractions
-
 An infraction occurs when class member(s) violate the agreed
 rules present in the code of C. Any action
 that is considered "Unacceptable" will cause an
@@ -277,6 +280,7 @@ of 2020.
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
+out of class office meeting to try to resolve issue and why it is still happening including all people involved
 
 * Level III A Level III infraction will be given to an individual who has accumulated five Level I infractions.
 
@@ -290,7 +294,6 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Mai Nguyen Dac, Jordan Byrne
-Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle
+Mai Nguyen Dac, Jordan Byrne, Bailey Matrascia
+Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle, Pedro Carmo, Tyler Pham, Ramon Guzman, Natnael Kahesay
 Caden Koscinski, Wesley Long, Christopher Stephenson
-:heavy_exclamation_mark: TODO: Add your name
