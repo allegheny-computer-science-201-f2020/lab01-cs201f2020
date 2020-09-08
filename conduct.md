@@ -139,14 +139,14 @@ truly be all there.
     * Approach issues and team members with professionalism
     * Demonstrate continuous engagement with tasks
     * Be open minded
-    * Raise a disagreeing opinion in a respectful manner
+    * Raise a differing opinion in a respectful manner
     * Ensure that groups are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
     * Be understanding and compassionate regarding the various learning/living situations a student may face this semester
     * Ask questions when necessary using an * in the Zoom chat or raising your hand if in the classroom
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Demonstrate disrespect for team members
+    * Show disrespect for team members
     * Have an inappropriate professional boundary with team members
     * Show poor participation and attitude to their lab delegated tasks
     * Demonstrate patterns of poor communication or little effort for
@@ -155,7 +155,7 @@ truly be all there.
     * Attempt to dominate lab discussions
     * Avoid contributing to lab discussions
     * Demonstrate disruptive behavior that inhibits others from participating in discussions
-    * Discriminate against team members based on race, class year, gender, or level of knowledge
+    * Discriminate against team members based on race, gender, or level of knowledge
 
 ### Decisions
 
