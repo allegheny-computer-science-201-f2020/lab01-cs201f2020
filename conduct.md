@@ -290,4 +290,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 Mai Nguyen Dac, Jordan Byrne, Bailey Matrascia
 Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle
-:heavy_exclamation_mark: TODO: Add your name
+:heavy_exclamation_mark: TODO: Natnael Kahesay
