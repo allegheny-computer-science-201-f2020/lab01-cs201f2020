@@ -209,7 +209,6 @@ provide great insight in how to improve in future projects.
     * Keep postmortems blameless to increase the accountability in a group and to prevent team members from being blamed
     * All decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members
 
-
 * Unacceptable Conduct (U):
   * Members shall not
     * Insult others while presenting criticism
@@ -270,7 +269,7 @@ of 2020.
 * *Infractions shall be imposed at three different levels of severity:*
 
 * Level I: Any violation of a Code of Conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
- - Warning to the student not to repeat their behavior
+ * Warning to the student not to repeat their behavior
 
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
 
