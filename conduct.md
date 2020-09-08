@@ -78,6 +78,7 @@ course website and on Slack. Exceptions should be made for emergencies and illne
     * Communicate with team members when assigned tasks are completed.
     * Work together to ensure that submitted work is free of errors.
     * Watch the course website and Slack workspace for changes to due dates.
+    * Give proper notice with honest reasons if needing a deadline extensions
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -85,6 +86,7 @@ course website and on Slack. Exceptions should be made for emergencies and illne
     * Submit assignments past the due date.
     * Neglect to inform group members of completion progress.
     * Turn in their work through the incorrect medium.
+    * Make up reasons to avoid submitting work
 
 ### Communication
 
@@ -100,6 +102,7 @@ watch and participate in Slack, Zoom, and email communications.
     * Always use appropriate language when communicating with instructor and peers
     * Give proper notice about any absences to lab meetings
     * Give proper notice about intended changes to the project, itself
+    * Always lead the conversations in a positive manner
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -111,6 +114,7 @@ watch and participate in Slack, Zoom, and email communications.
     opinions and development in an unprofessional manner
     * Refuse to complete work on sections of the project that they had said they
     would work on prior
+    * Using inappropriate set of language in conversations with instructors and peers.
 
 ## Team Work
 
@@ -184,7 +188,7 @@ how long a decision will take to implement.
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
     * Refuse to use the issue tracker to discuss a disagreement
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
+    * Deploy any kind of decision that against codes of ethic
 
 ### Postmortems
 
@@ -205,7 +209,7 @@ provide great insight in how to improve in future projects.
     * Account for situational factors that may come up with remote work when giving feedback and discussing solutions
     * Keep postmortems blameless to increase the accountability in a group and to prevent team members from being blamed
     * All decisions coming from the results of a postmortem should be arrived through a democratic process based on a majority support from group members
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
+
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -217,7 +221,6 @@ provide great insight in how to improve in future projects.
     * Target a specific team member when discussing a post mortem or the remaining bugs in a laboratory or project assignment
     * Decide what to do after a postmortem that the majority of the project or laboratory group doesn't agree with
     * Claim that one subjective way of achieving a solution is the only correct way of working towards it
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
 
 ### Conflicts
 
@@ -237,7 +240,6 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Be considerate and listen to everyone in the group carefully before determining a suitable solution for the issue
     * Politely disagree with other students ideas but not in a way that harms the group or individual students
     * Not physically injure others or try or attack members in order to resolve conflicts
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -247,7 +249,6 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Harass others with discriminatory jokes and languages
     * Hold grudges against others for previous conflicts
     * Hide conflicts within a group to prevent interventions to mitigate problems
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
 
 ## Infractions
 
@@ -270,10 +271,7 @@ of 2020.
 * *Infractions shall be imposed at three different levels of severity:*
 
 * Level I: Any violation of a Code of Conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
-
-:heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
-
-* Warning to the student not to repeat their behavior
+ -  Warning to the student not to repeat their behavior
 
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
 
