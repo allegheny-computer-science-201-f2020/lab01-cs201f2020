@@ -246,4 +246,4 @@ Class member(s) may appeal any infraction to the instructor of the class. Any de
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova, Kyrie Doniz
+Janyl Jumadinova, Kyrie Doniz, Favour Ojo
