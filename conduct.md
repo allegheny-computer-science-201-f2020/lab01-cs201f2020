@@ -60,11 +60,18 @@
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for deadlines
+    * Turn in work in a timely fashion determined by the course instructor or the team.
+    * Set up smaller progression deadlines to ensure that the team is on schedule.
+    * Communicate with team members when assigned tasks are completed.
+    * Collaborate to ensure that submissions are free of errors.
+    * Watch the course website and Slack workspace for changes to due dates.
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for deadlines
+    * Procrastinate work within a group causing late submissions of assignments.
+    * Submit assignments past the deadline.
+    * Neglect to inform group members of completion progress.
+    * Submit work to the incorrect medium.
 
 ### Communication
 
@@ -134,7 +141,7 @@ how long a decision will take to implement.
     * Defer to the Professor or student technical leaders when unsure
     * Distribute tasks to all team members
     * A new decision should be made when a previous decision cannot be implemented
-    * When a choice is disputed, use Github issue tracker and let team members
+    * When a choice is disputed, use GitHub issue tracker and let team members
       share their opinion
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team
 
