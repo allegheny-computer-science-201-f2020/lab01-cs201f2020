@@ -234,15 +234,11 @@ The severity of the infraction is determined by the number of previous infractio
 
 This guideline for infractions is separate from the Allegheny College Honor code guidelines. While the Honor Code involves all students in Allegheny College and is enforced by the college's Honor Committee, this code of C only includes members of the Data Abstraction class for the Fall semester of 2020.
 
-  * *Infractions shall be imposed at three different levels of severity:*
-
-    * Level I: Any violation of a Code of Conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
-
-      * Warning to the student not to repeat their behavior
-
-    * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
-
-    * Level III: A Level III infraction will be given to an individual who has accumulated five Level I infractions.
+* *Infractions shall be imposed at three different levels of severity:*
+  * Level I: Any violation of a Code of Conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
+    * Warning to the student not to repeat their behavior
+  * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
+  * Level III: A Level III infraction will be given to an individual who has accumulated five Level I infractions.
 
 Class member(s) are encouraged to report any infractions in order to ensure a safe, inclusive and collegial environment.
 
