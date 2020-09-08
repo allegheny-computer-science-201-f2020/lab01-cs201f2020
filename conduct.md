@@ -241,7 +241,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Encourage or engage in conflicts that undermine the code of Conduct
+    * Encourage or engage in conflicts that undermine the Code of Conduct
     * Escalate existing conflicts that jeopardize the group project
     * Disregard or refuse to resolve an existing conflict that has been brought to their attention
     * Harass others with discriminatory jokes and languages
@@ -252,7 +252,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
 ## Infractions
 
 An infraction occurs when class member(s) violate the agreed
-rules present in the code of C. Any action
+rules present in the Code of Conduct. Any action
 that is considered "Unacceptable" will cause an
 infraction. Class member(s) should avoid infractions since the accumulation of
 them would cause penalties and hinder the progress of the project.
@@ -263,7 +263,7 @@ level infraction and thus a more severe penalty.
 
 This guideline for infractions is separate from the Allegheny College Honor code
 guidelines. While the Honor Code involves all students in Allegheny College and
-is enforced by the college's Honor Committee, this code of C only
+is enforced by the college's Honor Committee, this Code of Conduct only
 includes members of the Data Abstraction class for the Fall semester
 of 2020.
 
