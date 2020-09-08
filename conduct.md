@@ -72,7 +72,6 @@ course website and on Slack. Exceptions should be made for emergencies and illne
 
 * Acceptable Conduct (A):
   * Members shall
-
     * Turn in work in a timely fashion determined by the course instructor or the team.
     * Set up smaller progression deadlines to ensure that the team is on schedule.
     * Communicate with team members when assigned tasks are completed.
@@ -84,7 +83,7 @@ course website and on Slack. Exceptions should be made for emergencies and illne
     * Procrastinate work within a group causing late submissions of assignments.
     * Submit assignments past the due date.
     * Neglect to inform group members of completion progress.
-    * Turn in their work through the incorrect medium.
+    * Turn in work through the incorrect medium.
 
 ### Communication
 
