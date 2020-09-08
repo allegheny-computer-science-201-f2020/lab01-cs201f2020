@@ -229,7 +229,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
 * Acceptable Conduct (A):
   * Members shall
     * Resolve conflicts before they become severe by engaging in respectful conversations
-    * Communicate with project managers if conflicts become severe between class members, who will work to resolve any issues
+    * Communicate with project managers, if conflicts become severe between class members, who will work to resolve any issues
     * Project managers, technical leaders and the course instructor are
     responsible for resolving any issues by proposing solutions to reach a
     compromise between class members involved
