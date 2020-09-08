@@ -41,6 +41,7 @@ Allegheny's honor code for all submitted work.
     * Violate the Allegheny honor code in regards to all submitted work
     * Navigate to other websites or programs unrelated to class materials
     * Directly copy another peer's work without crediting them
+    * Inhibit or otherwise hinder the progress of any peer's work
 
 ### Attendance
 
