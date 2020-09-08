@@ -136,7 +136,7 @@ truly be all there.
     * Demonstrate continuous engagement with tasks
     * Be open minded
     * Raise a disagreeing opinion in a respectful manner
-    * Ensure that they are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
+    * Ensure that groups are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
     * Be understanding and compassionate regarding the various learning/living situations a student may face this semester
     * Ask questions when necessary using an * in the Zoom chat or raising your hand if in the classroom
 
@@ -148,7 +148,7 @@ truly be all there.
     * Demonstrate patterns of poor communication or little effort for
     collaboration in lab and Slack
     * Disrupt working teams' effectiveness by lack of collaboration
-    * Attempt to dominate a lab discussions
+    * Attempt to dominate lab discussions
     * Avoid contributing to lab discussions
     * Demonstrate disruptive behavior that inhibits others from participating in discussions
     * Discriminate against team members based on race, class year, gender, or level of knowledge
