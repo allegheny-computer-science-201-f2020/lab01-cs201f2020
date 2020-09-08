@@ -85,6 +85,7 @@ course website and on Slack. Exceptions should be made for emergencies and illne
     * Submit assignments past the due date.
     * Neglect to inform group members of completion progress.
     * Turn in work through the incorrect medium.
+    * Neglect to do work assigned to them
 
 ### Communication
 
@@ -153,6 +154,9 @@ truly be all there.
     * Avoid contributing to lab discussions
     * Demonstrate disruptive behavior that inhibits others from participating in discussions
     * Discriminate against team members based on race, class year, gender, or level of knowledge
+    * Abuse the notification / ping system in Slack and expect responses at unreasonable
+    hours of the day, or otherwise expect involvement from members that are not
+    available
 
 ### Decisions
 
@@ -185,6 +189,8 @@ how long a decision will take to implement.
     * Make decisions that would affect another team without first notifying them
     * Refuse to actively participate in group discussions to reach an optimal final decision
     * Refuse to use the issue tracker to discuss a disagreement
+    * Interfere in matters or responsibilities that they were not designated to
+    handle
 
 ### Postmortems
 
@@ -291,4 +297,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Mai Nguyen Dac, Jordan Byrne
 Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle
+Caden Koscinski, Wesley Long
 :heavy_exclamation_mark: TODO: Add your name
