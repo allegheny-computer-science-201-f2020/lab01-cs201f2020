@@ -175,6 +175,7 @@ how long a decision will take to implement.
     * Make new decisions when a previous decision cannot be implemented
     * When a choice is disputed, use Github issue tracker and let team members
       share their opinion
+    * Efficient communication within and outside of teams
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -183,8 +184,8 @@ how long a decision will take to implement.
     * Directly contradict a team decision
     * Refuse to work on the decided option
     * Make decisions that would affect another team without first notifying them
+    * Not actively participating in group discussions to reach an optimal final decision
     * Refuse to use the issue tracker to discuss a disagreement
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team
 
 ### Postmortems
 
