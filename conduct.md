@@ -276,9 +276,11 @@ of 2020.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
 
-  *Student must formally apologize to the affected party.
+  * Student must formally apologize to the affected party.
   
-  *Student is required to communicate with the professor to discuss continued participation in class.
+  * Student is required to communicate with the professor to discuss continued participation in class.
+
+  * Student may receive a reduced or failing grade for the affected project.
 
 * Level III A Level III infraction will be given to an individual who has accumulated five Level I infractions.
 
@@ -292,5 +294,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Alton Caylor, Maximillian Mandel
+Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Alton Caylor, Maximillian Mandel, Davis Bayne
 :heavy_exclamation_mark: TODO: Add your name
