@@ -223,7 +223,7 @@ provide great insight in how to improve in future projects.
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed
     * Make fun of other people’s solutions
     * Take all credit for all of the team members work that the individual did not do and blame others for everything wrong
-    * Target a specific team member when discussing a post mortem or the remaining bugs in a laboratory or project assignment
+    * Target a specific team member when discussing a postmortem or the remaining bugs in a laboratory or project assignment
     * Decide what to do after a postmortem that the majority of the project or laboratory group doesn't agree with
     * Claim that one subjective way of achieving a solution is the only correct way of working towards it
 
@@ -247,7 +247,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Encourage or engage in conflicts that undermine the code of Conduct
+    * Encourage or engage in conflicts that undermine the Code of Conduct
     * Escalate existing conflicts that jeopardize the group project
     * Disregard or refuse to resolve an existing conflict that has been brought to their attention
     * Harass others with discriminatory jokes and languages
@@ -258,7 +258,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
 ## Infractions
 
 An infraction occurs when class member(s) violate the agreed
-rules present in the code of C. Any action
+rules present in the Code of Conduct. Any action
 that is considered "Unacceptable" will cause an
 infraction. Class member(s) should avoid infractions since the accumulation of
 them would cause penalties and hinder the progress of the project.
@@ -267,9 +267,9 @@ The severity of the infraction is determined by the number of
 previous infractions. Higher number of past infractions would cause a higher
 level infraction and thus a more severe penalty.
 
-This guideline for infractions is separate from the Allegheny College Honor code
+This guideline for infractions is separate from the Allegheny College Honor Code
 guidelines. While the Honor Code involves all students in Allegheny College and
-is enforced by the college's Honor Committee, this code of C only
+is enforced by the college's Honor Committee, this Code of Conduct only
 includes members of the Data Abstraction class for the Fall semester
 of 2020.
 
@@ -289,7 +289,7 @@ out of class office meeting to try to resolve issue and why it is still happenin
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
 
 Class member(s) are encouraged to report any infractions in order to ensure
-a safe, inclusive and collegial environment.
+a safe, inclusive and collegiate environment.
 
 Class member(s) may appeal any infraction to the instructor of the class.
 Any decision made by the instructor for the given infraction(s) will be final.
