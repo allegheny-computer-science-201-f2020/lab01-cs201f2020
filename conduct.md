@@ -274,6 +274,7 @@ of 2020.
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
+out of class office meeting to try to resolve issue and why it is still happening including all people involved
 
 * Level III A Level III infraction will be given to an individual who has accumulated five Level I infractions.
 
