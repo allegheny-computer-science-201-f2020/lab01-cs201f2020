@@ -77,13 +77,15 @@ course website and on Slack. Exceptions should be made for emergencies and illne
     * Communicate with team members when assigned tasks are completed.
     * Work together to ensure that submitted work is free of errors.
     * Watch the course website and Slack workspace for changes to due dates.
+    * Give proper notice with honest reasons if needing a deadline extensions
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Procrastinate work within a group causing late submissions of assignments.
     * Submit assignments past the due date.
     * Neglect to inform group members of completion progress.
-    * Turn in work through the incorrect medium.
+    * Turn in their work through the incorrect medium.
+    * Make up reasons to avoid submitting work
 
 ### Communication
 
@@ -97,7 +99,8 @@ watch and participate in Slack, Zoom, and email communications.
     * Listen to and consider ideas presented by others
     * Always use appropriate language when communicating with instructor and peers
     * Give proper notice about any absences to lab meetings
-    * Give proper notice about intended changes to the projects
+    * Give proper notice about intended changes to the project
+    * Always lead the conversations in a positive manner
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -109,6 +112,7 @@ watch and participate in Slack, Zoom, and email communications.
     opinions and development in an unprofessional manner
     * Refuse to complete work on sections of the project that they had said they
     would work on prior
+    * Using inappropriate set of language in conversations with instructors and peers.
 
 ## Team Work
 
@@ -184,6 +188,7 @@ how long a decision will take to implement.
     * Make decisions that would affect another team without first notifying them
     * Refuse to actively participate in group discussions to reach an optimal final decision
     * Refuse to use the issue tracker to discuss a disagreement
+    * Deploy any kind of decision that against codes of ethic
 
 ### Postmortems
 
@@ -235,6 +240,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Report conflict involving violence to the instructors and Dean of Students
     * Be considerate and listen to everyone in the group carefully before determining a suitable solution for the issue
     * Politely disagree with other students ideas but not in a way that harms the group or individual students
+  
 
 * Unacceptable Conduct (U):
   * Members shall not
