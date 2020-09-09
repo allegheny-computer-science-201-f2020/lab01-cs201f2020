@@ -77,6 +77,37 @@ course website and on Slack. Exceptions should be made for emergencies and illne
     * Turn in work in a timely fashion determined by the course instructor or the team.
     * Set up smaller progression deadlines to ensure that the team is on schedule.
     * Communicate with team members when assigned tasks are completed.
+    * Collaborate to ensure that submissions are free of errors.
+    * Watch the course website and Slack workspace for changes to due dates.
+
+* Unacceptable Conduct (U):
+  * Members shall not
+    * Turn in work in a timely fashion determined by the course instructor or the team.
+    * Set up smaller progression deadlines to ensure that the team is on schedule.
+    * Communicate with team members when assigned tasks are completed.
+    * Collaborate to ensure that submissions are free of errors.
+    * Watch the course website and Slack workspace for changes to due dates.
+
+### Communication
+
+Since the nature of this course has changed, communication is more vital than ever for students during these unprecedented times. Students are expected to stay in regular communication with the professor and each other & watch and participate through Slack, Zoom, and email communications.
+
+* Acceptable Conduct (A):
+  * Members shall
+    * Ask clarifying questions if you are confused
+    * Listen to and consider ideas presented by others
+    * Always use appropriate language when communicating with instructor and peers
+    * Give proper notice about any absences to lab meetings
+    * Give proper notice about intended changes to the projects
+    * Give advanced notice, if possible, about any absences to class/lab/group sessions
+
+* Unacceptable Conduct (U):
+  * Members shall not
+    * Leave messages from the instructor or group partners (if applicable) unanswered for unacceptable lengths of time, thus disrupting effective collaboration and productivity.
+    * This extends to email, Slack, GitHub, and any other mediums of communication.
+    * Disrespect the work and opinions of others or otherwise provide deconstructive criticism
+    * Use GitHub threads, Slack channels, and any other platforms for discussing opinions and development in an unprofessional manner
+    * Use any form of communication to speak negatively about your peers or the instructor
     * Work together to ensure that submitted work is free of errors.
     * Watch the course website and Slack workspace for changes to due dates.
     * Give proper notice with honest reasons if needing a deadline extensions
@@ -142,6 +173,7 @@ truly be all there.
     * Approach issues and team members with professionalism
     * Demonstrate continuous engagement with tasks
     * Be open minded
+    * Raise a disagreeing opinion in a respectful manner
     * Raise a differing opinion in a respectful manner
     * Ensure that groups are distributing the workload for laboratory and class assignments evenly amongst _all_ team members
     * Be understanding and compassionate regarding the various learning/living situations a student may face this semester
@@ -152,28 +184,23 @@ truly be all there.
     * Show disrespect for team members
     * Have an inappropriate professional boundary with team members
     * Show poor participation and attitude to their lab delegated tasks
-    * Demonstrate patterns of poor communication or little effort for
-    collaboration in lab and Slack
+    * Demonstrate patterns of poor communication or little effort for collaboration in lab and Slack
     * Disrupt working teams' effectiveness by lack of collaboration
+    * Attempt to dominate a lab discussions
     * Attempt to dominate lab discussions
     * Avoid contributing to lab discussions
     * Demonstrate disruptive behavior that inhibits others from participating in discussions
     * Discriminate against team members based on race, class year, gender, or level of knowledge
-    * Abuse the notification / ping system in Slack and expect responses at unreasonable
-    hours of the day, or otherwise expect involvement from members that are not
-    available
+    * Abuse the notification / ping system in Slack and expect responses at unreasonable hours of the day, or otherwise expect involvement from members that are not available
 
 ### Decisions
 
-The majority of individuals in a team should agree on a given decision before the
-project is implemented. It should be made with supporting evidence that shows
-that the decision is productive. When unsure about making a decision
-it is a good idea to defer to a technical leader or the professor. One should
-reach out to other teams whom the choice will influence. Teams will determine
-how long a decision will take to implement.
+The majority of individuals in a team should agree on a given decision before the project is implemented. It should be made with supporting evidence that shows that the decision is productive. When unsure about making a decision it is a good idea to defer to a technical leader or the professor for further assistance. One should reach out to other teams whom the choice will influence. Teams will determine how long a decision will take to implement.
 
 * Acceptable Conduct (A):
   * Members shall
+    * Take into account everyone's input in the decision-making process
+    * Stay flexible and be willing to change, if productive
     * Take into account everyone's input in the decision making process
     * Stay flexible and be willing to change if productive
     * Report errors or bugs to the appropriate team members
@@ -181,13 +208,16 @@ how long a decision will take to implement.
     * Defer to the Professor or student technical leaders when unsure about tasks or implementation
     * Distribute tasks to all team members evenly
     * Make new decisions when a previous decision cannot be implemented
+    * Use GitHub issue tracker when a choice is disputed and let team members share their opinion
+    * Use efficient communication within and outside of teams
+    * Come to a consensus about decisions
     * Use Github issue tracker when a choice is disputed and let team members
       share their opinion
     * Use efficient communication within and outside of teams
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Let an individual team member or a project manager make major decisions
+    * Let an individual team member or a project manager make major decisions without consulting other team members first.
     * Make decisions without finding evidence showing that it would likely be beneficial
     * Directly contradict a team decision
     * Refuse to work on the decided option
@@ -209,6 +239,15 @@ provide great insight in how to improve in future projects.
   * Members shall
     * Work as a team to create a postmortem plan to review and fix sections of the project
     * Develop different approaches to solve issues with the project
+    * Participate in the discussions in a respectful and courteous manner while adhering to the Communications section of the Code of Conduct
+    * Provide constructive feedback and propose solutions for issues faced
+    * Receive feedback and discuss how it could be used to improve future projects and assignments
+    * Communicate and think practically on how to improve the program with efficiently with our computational skills
+    * Account for situational factors that may come up with remote work when giving feedback and discussing solutions
+    * Keep postmortems blameless to increase accountability in a group and to prevent individual team members from being blamed
+    * Respect that all decisions postmortem should be arrived through a democraticprocess based upon the majority support from the group
+    * Work as a team to create a postmortem plan to review and fix sections of the project
+    * Develop different approaches to solve issues with the project
     * Provide constructive feedback and propose solutions for issues faced
     * Receive feedback and discuss how it could be used to improve future projects and assignments
     * Communicate and think practically/realistically on ways to improve the program based on efficiency and the skills we have learned throughout the course and at Allegheny
@@ -220,6 +259,12 @@ provide great insight in how to improve in future projects.
   * Members shall not
     * Insult others while presenting criticism
     * Blame other members for any issues with the final product
+    * Refuse to collaborate in fixing remaining issues before completing a project or lab
+    * Make non-objective criticisms toward others' solutions
+    * Take credit for other's work
+    * Target individuals when discussing post mortem or remaining bugs in an assignment
+    * Make decisions that the majority of the team disagree with postmortem
+    * Use one-track minded thinking towards achieving solutions
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed
     * Make fun of other people’s solutions
     * Take all credit for all of the team members work that the individual did not do and blame others for everything wrong
@@ -235,9 +280,10 @@ It is inevitable that conflicts will arise when working as a large group. It is 
   * Members shall
     * Resolve conflicts before they become severe by engaging in respectful conversations
     * Communicate with project managers, if conflicts become severe between class members, who will work to resolve any issues
-    * Project managers, technical leaders and the course instructor are
-    responsible for resolving any issues by proposing solutions to reach a
-    compromise between class members involved
+    * Project managers, technical leaders and the course instructor are responsible for resolving any issues by proposing solutions to reach a compromise between class members involved
+    * Project managers may reassign different tasks to group members to solve a conflict
+    * The course instructor has a final say in how severe conflictsshould be resolved
+    * Be respectful and open-minded with everybody in the team when encountering a conflict
     * Project managers may reassign different tasks to group members to solve a conflict
     * Give the course instructor final say in how severe conflicts should be resolved
     * Be respectful and open-minded with everybody in the team when encountering a conflict
@@ -249,6 +295,13 @@ It is inevitable that conflicts will arise when working as a large group. It is 
   * Members shall not
     * Encourage or engage in conflicts that undermine the Code of Conduct
     * Escalate existing conflicts that jeopardize the group project
+    * Disregard or refuse to resolve an existing conflict that has been brought to their attention
+    * Start severe conflicts based on simple disagreements
+
+## Infractions
+
+An infraction occurs when class member(s) violate the agreed rules present in the code of C. Any action that is considered "Unacceptable" will cause an infraction. Class member(s) should avoid infractions since the accumulation of them would cause penalties and hinder the progress of the project.
+=======
     * Disregard or refuse to resolve an existing conflict that has been brought to their attention
     * Harass others with discriminatory jokes and languages
     * Hold grudges against others for previous conflicts
@@ -263,10 +316,24 @@ that is considered "Unacceptable" will cause an
 infraction. Class member(s) should avoid infractions since the accumulation of
 them would cause penalties and hinder the progress of the project.
 
-The severity of the infraction is determined by the number of
-previous infractions. Higher number of past infractions would cause a higher
-level infraction and thus a more severe penalty.
+The severity of the infraction is determined by the number of previous infractions. Higher number of past infractions would cause a higher level infraction and thus a more severe penalty.
 
+This guideline for infractions is separate from the Allegheny College Honor code guidelines. While the Honor Code involves all students in Allegheny College and is enforced by the college's Honor Committee, this code of C only includes members of the Data Abstraction class for the Fall semester of 2020.
+
+* *Infractions shall be imposed at three different levels of severity:*
+  * Level I: Any violation of a Code of Conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
+    * Warning to the student not to repeat their behavior
+  * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
+  * Level III: A Level III infraction will be given to an individual who has accumulated five Level I infractions.
+
+Class member(s) are encouraged to report any infractions in order to ensure a safe, inclusive and collegial environment.
+
+Class member(s) may appeal any infraction to the instructor of the class. Any decision made by the instructor for the given infraction(s) will be final.
+
+## Names of Individuals who Agree to Adhere to the Guide
+
+Janyl Jumadinova, Kyrie Doniz, Favour Ojo, Kai'lani Woodard,
+=======
 This guideline for infractions is separate from the Allegheny College Honor Code
 guidelines. While the Honor Code involves all students in Allegheny College and
 is enforced by the college's Honor Committee, this Code of Conduct only
@@ -304,4 +371,3 @@ Any decision made by the instructor for the given infraction(s) will be final.
 Mai Nguyen Dac, Jordan Byrne, Bailey Matrascia
 Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle, Pedro Carmo, Tyler Pham, Ramon Guzman, Natnael Kahesay
 Caden Koscinski, Wesley Long, Christopher Stephenson, Alton Caylor, Davis Bayne, Maximillian Mandel, Garrison Vanzin, Jacob Stringer
-
