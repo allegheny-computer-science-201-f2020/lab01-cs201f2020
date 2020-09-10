@@ -303,5 +303,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 Mai Nguyen Dac, Jordan Byrne, Bailey Matrascia
 Janyl Jumadinova, Noor Buchi, Declan Casey, Anh Tran, Adam Cook, Kobe Coleman, Madelyn Kapfhammer, Elisia Wright, Hannah Schultz, Kiley Hewitt, Tommy Antle, Pedro Carmo, Tyler Pham, Ramon Guzman, Natnael Kahesay
-Caden Koscinski, Wesley Long, Christopher Stephenson, Alton Caylor, Davis Bayne, Maximillian Mandel, Garrison Vanzin, Jacob Stringer
+Caden Koscinski, Wesley Long, Christopher Stephenson, Alton Caylor, Davis Bayne, Maximillian Mandel, Garrison Vanzin, Jacob Stringer, Favour Ojo
 
